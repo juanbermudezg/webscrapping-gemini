@@ -1,0 +1,2191 @@
+2024-10-22 12:08:47 - Started main function in main.py
+2024-10-22 12:08:52 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:08:52 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:08:52 - Finished gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:08:52 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:08:52 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:08:52 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:08:54 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:08:54 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:08:54 - Started main_function_utilities function in utilities.py
+2024-10-22 12:08:54 - Started load_file function in utilities.py
+2024-10-22 12:08:54 - Finished load_file function in utilities.py
+2024-10-22 12:08:54 - Started match_text function in utilities.py
+2024-10-22 12:08:54 - Finished match_text function in utilities.py
+2024-10-22 12:08:54 - Started add_product function in utilities.py
+2024-10-22 12:08:54 - Finished add_product function in utilities.py
+2024-10-22 12:08:54 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:08:59 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:08:59 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:08:59 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:08:59 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:08:59 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:00 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:00 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:00 - Started main_function_utilities function in utilities.py
+2024-10-22 12:09:00 - Started load_file function in utilities.py
+2024-10-22 12:09:00 - Finished load_file function in utilities.py
+2024-10-22 12:09:00 - Started match_text function in utilities.py
+2024-10-22 12:09:00 - Finished match_text function in utilities.py
+2024-10-22 12:09:00 - Started add_product function in utilities.py
+2024-10-22 12:09:00 - Finished add_product function in utilities.py
+2024-10-22 12:09:00 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:09:05 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:05 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:05 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:05 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:05 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:06 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:06 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:06 - Started main_function_utilities function in utilities.py
+2024-10-22 12:09:06 - Started load_file function in utilities.py
+2024-10-22 12:09:06 - Finished load_file function in utilities.py
+2024-10-22 12:09:06 - Started match_text function in utilities.py
+2024-10-22 12:09:06 - Finished match_text function in utilities.py
+2024-10-22 12:09:06 - Started add_product function in utilities.py
+2024-10-22 12:09:06 - Finished add_product function in utilities.py
+2024-10-22 12:09:06 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:09:11 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:11 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:11 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:11 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:11 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:11 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:11 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:11 - Started main_function_utilities function in utilities.py
+2024-10-22 12:09:11 - Started load_file function in utilities.py
+2024-10-22 12:09:11 - Finished load_file function in utilities.py
+2024-10-22 12:09:11 - Started match_text function in utilities.py
+2024-10-22 12:09:11 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:09:11 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:09:16 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:16 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:16 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:16 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:16 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:17 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:17 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:17 - Started main_function_utilities function in utilities.py
+2024-10-22 12:09:17 - Started load_file function in utilities.py
+2024-10-22 12:09:17 - Finished load_file function in utilities.py
+2024-10-22 12:09:17 - Started match_text function in utilities.py
+2024-10-22 12:09:17 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:09:17 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:09:22 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:22 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:22 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:22 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:22 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:24 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:24 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:24 - Started main_function_utilities function in utilities.py
+2024-10-22 12:09:24 - Started load_file function in utilities.py
+2024-10-22 12:09:24 - Finished load_file function in utilities.py
+2024-10-22 12:09:24 - Started match_text function in utilities.py
+2024-10-22 12:09:24 - Finished match_text function in utilities.py
+2024-10-22 12:09:24 - Started add_product function in utilities.py
+2024-10-22 12:09:24 - Finished add_product function in utilities.py
+2024-10-22 12:09:24 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:09:29 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:29 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:29 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:29 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:29 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:29 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:29 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:29 - Started main_function_utilities function in utilities.py
+2024-10-22 12:09:29 - Started load_file function in utilities.py
+2024-10-22 12:09:30 - Finished load_file function in utilities.py
+2024-10-22 12:09:30 - Started match_text function in utilities.py
+2024-10-22 12:09:30 - Finished match_text function in utilities.py
+2024-10-22 12:09:30 - Started add_product function in utilities.py
+2024-10-22 12:09:30 - Finished add_product function in utilities.py
+2024-10-22 12:09:30 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:09:35 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:35 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:35 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:35 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:35 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:35 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:35 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:35 - Started main_function_utilities function in utilities.py
+2024-10-22 12:09:35 - Started load_file function in utilities.py
+2024-10-22 12:09:35 - Finished load_file function in utilities.py
+2024-10-22 12:09:35 - Started match_text function in utilities.py
+2024-10-22 12:09:35 - Finished match_text function in utilities.py
+2024-10-22 12:09:35 - Started add_product function in utilities.py
+2024-10-22 12:09:35 - Finished add_product function in utilities.py
+2024-10-22 12:09:35 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:09:40 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:40 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:40 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:40 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:40 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:41 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:41 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:41 - Started main_function_utilities function in utilities.py
+2024-10-22 12:09:41 - Started load_file function in utilities.py
+2024-10-22 12:09:41 - Finished load_file function in utilities.py
+2024-10-22 12:09:41 - Started match_text function in utilities.py
+2024-10-22 12:09:41 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:09:41 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:09:46 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:46 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:46 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:46 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:46 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:47 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:47 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:47 - Started main_function_utilities function in utilities.py
+2024-10-22 12:09:47 - Started load_file function in utilities.py
+2024-10-22 12:09:47 - Finished load_file function in utilities.py
+2024-10-22 12:09:47 - Started match_text function in utilities.py
+2024-10-22 12:09:47 - Finished match_text function in utilities.py
+2024-10-22 12:09:47 - Started add_product function in utilities.py
+2024-10-22 12:09:47 - Finished add_product function in utilities.py
+2024-10-22 12:09:47 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:09:52 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:52 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:52 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:52 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:52 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:53 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:53 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:53 - Started main_function_utilities function in utilities.py
+2024-10-22 12:09:53 - Started load_file function in utilities.py
+2024-10-22 12:09:53 - Finished load_file function in utilities.py
+2024-10-22 12:09:53 - Started match_text function in utilities.py
+2024-10-22 12:09:53 - Finished match_text function in utilities.py
+2024-10-22 12:09:53 - Started add_product function in utilities.py
+2024-10-22 12:09:53 - Finished add_product function in utilities.py
+2024-10-22 12:09:53 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:09:58 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:09:58 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:09:58 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:58 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:09:58 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:01 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:01 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:01 - Started main_function_utilities function in utilities.py
+2024-10-22 12:10:01 - Started load_file function in utilities.py
+2024-10-22 12:10:01 - Finished load_file function in utilities.py
+2024-10-22 12:10:01 - Started match_text function in utilities.py
+2024-10-22 12:10:01 - Finished match_text function in utilities.py
+2024-10-22 12:10:01 - Started add_product function in utilities.py
+2024-10-22 12:10:01 - Finished add_product function in utilities.py
+2024-10-22 12:10:01 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:10:06 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:06 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:06 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:06 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:06 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:07 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:07 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:07 - Started main_function_utilities function in utilities.py
+2024-10-22 12:10:07 - Started load_file function in utilities.py
+2024-10-22 12:10:07 - Finished load_file function in utilities.py
+2024-10-22 12:10:07 - Started match_text function in utilities.py
+2024-10-22 12:10:07 - Finished match_text function in utilities.py
+2024-10-22 12:10:07 - Started add_product function in utilities.py
+2024-10-22 12:10:07 - Finished add_product function in utilities.py
+2024-10-22 12:10:07 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:10:12 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:12 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:12 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:12 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:12 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:13 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:13 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:13 - Started main_function_utilities function in utilities.py
+2024-10-22 12:10:13 - Started load_file function in utilities.py
+2024-10-22 12:10:13 - Finished load_file function in utilities.py
+2024-10-22 12:10:13 - Started match_text function in utilities.py
+2024-10-22 12:10:13 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:10:13 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:10:18 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:18 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:18 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:18 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:18 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:19 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:19 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:19 - Started main_function_utilities function in utilities.py
+2024-10-22 12:10:19 - Started load_file function in utilities.py
+2024-10-22 12:10:19 - Finished load_file function in utilities.py
+2024-10-22 12:10:19 - Started match_text function in utilities.py
+2024-10-22 12:10:19 - Finished match_text function in utilities.py
+2024-10-22 12:10:19 - Started add_product function in utilities.py
+2024-10-22 12:10:19 - Finished add_product function in utilities.py
+2024-10-22 12:10:19 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:10:24 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:24 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:24 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:24 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:24 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:25 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:25 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:25 - Started main_function_utilities function in utilities.py
+2024-10-22 12:10:25 - Started load_file function in utilities.py
+2024-10-22 12:10:25 - Finished load_file function in utilities.py
+2024-10-22 12:10:25 - Started match_text function in utilities.py
+2024-10-22 12:10:25 - Finished match_text function in utilities.py
+2024-10-22 12:10:25 - Started add_product function in utilities.py
+2024-10-22 12:10:25 - Finished add_product function in utilities.py
+2024-10-22 12:10:25 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:10:30 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:30 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:30 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:30 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:30 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:33 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:33 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:33 - Started main_function_utilities function in utilities.py
+2024-10-22 12:10:33 - Started load_file function in utilities.py
+2024-10-22 12:10:33 - Finished load_file function in utilities.py
+2024-10-22 12:10:33 - Started match_text function in utilities.py
+2024-10-22 12:10:33 - Finished match_text function in utilities.py
+2024-10-22 12:10:33 - Started add_product function in utilities.py
+2024-10-22 12:10:33 - Finished add_product function in utilities.py
+2024-10-22 12:10:33 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:10:38 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:38 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:38 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:38 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:38 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:39 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:39 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:39 - Started main_function_utilities function in utilities.py
+2024-10-22 12:10:39 - Started load_file function in utilities.py
+2024-10-22 12:10:39 - Finished load_file function in utilities.py
+2024-10-22 12:10:39 - Started match_text function in utilities.py
+2024-10-22 12:10:39 - Finished match_text function in utilities.py
+2024-10-22 12:10:39 - Started add_product function in utilities.py
+2024-10-22 12:10:39 - Finished add_product function in utilities.py
+2024-10-22 12:10:39 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:10:44 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:44 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:44 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:44 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:44 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:46 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:46 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:46 - Started main_function_utilities function in utilities.py
+2024-10-22 12:10:46 - Started load_file function in utilities.py
+2024-10-22 12:10:46 - Finished load_file function in utilities.py
+2024-10-22 12:10:46 - Started match_text function in utilities.py
+2024-10-22 12:10:46 - Finished match_text function in utilities.py
+2024-10-22 12:10:46 - Started add_product function in utilities.py
+2024-10-22 12:10:46 - Finished add_product function in utilities.py
+2024-10-22 12:10:46 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:10:51 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:51 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:51 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:51 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:51 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:52 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:52 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:52 - Started main_function_utilities function in utilities.py
+2024-10-22 12:10:52 - Started load_file function in utilities.py
+2024-10-22 12:10:52 - Finished load_file function in utilities.py
+2024-10-22 12:10:52 - Started match_text function in utilities.py
+2024-10-22 12:10:52 - Finished match_text function in utilities.py
+2024-10-22 12:10:52 - Started add_product function in utilities.py
+2024-10-22 12:10:52 - Finished add_product function in utilities.py
+2024-10-22 12:10:52 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:10:57 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:57 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:57 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:57 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:10:57 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:58 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:10:58 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:10:58 - Started main_function_utilities function in utilities.py
+2024-10-22 12:10:58 - Started load_file function in utilities.py
+2024-10-22 12:10:58 - Finished load_file function in utilities.py
+2024-10-22 12:10:58 - Started match_text function in utilities.py
+2024-10-22 12:10:58 - Finished match_text function in utilities.py
+2024-10-22 12:10:58 - Started add_product function in utilities.py
+2024-10-22 12:10:58 - Finished add_product function in utilities.py
+2024-10-22 12:10:58 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:11:03 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:03 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:03 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:03 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:03 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:04 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:04 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:04 - Started main_function_utilities function in utilities.py
+2024-10-22 12:11:04 - Started load_file function in utilities.py
+2024-10-22 12:11:04 - Finished load_file function in utilities.py
+2024-10-22 12:11:04 - Started match_text function in utilities.py
+2024-10-22 12:11:04 - Finished match_text function in utilities.py
+2024-10-22 12:11:04 - Started add_product function in utilities.py
+2024-10-22 12:11:04 - Finished add_product function in utilities.py
+2024-10-22 12:11:04 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:11:09 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:09 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:09 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:09 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:09 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:10 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:10 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:10 - Started main_function_utilities function in utilities.py
+2024-10-22 12:11:10 - Started load_file function in utilities.py
+2024-10-22 12:11:10 - Finished load_file function in utilities.py
+2024-10-22 12:11:10 - Started match_text function in utilities.py
+2024-10-22 12:11:10 - Finished match_text function in utilities.py
+2024-10-22 12:11:10 - Started add_product function in utilities.py
+2024-10-22 12:11:10 - Finished add_product function in utilities.py
+2024-10-22 12:11:10 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:11:15 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:15 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:15 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:15 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:15 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:16 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:16 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:16 - Started main_function_utilities function in utilities.py
+2024-10-22 12:11:16 - Started load_file function in utilities.py
+2024-10-22 12:11:16 - Finished load_file function in utilities.py
+2024-10-22 12:11:16 - Started match_text function in utilities.py
+2024-10-22 12:11:16 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:11:16 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:11:21 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:21 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:21 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:21 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:21 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:22 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:22 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:22 - Started main_function_utilities function in utilities.py
+2024-10-22 12:11:22 - Started load_file function in utilities.py
+2024-10-22 12:11:22 - Finished load_file function in utilities.py
+2024-10-22 12:11:22 - Started match_text function in utilities.py
+2024-10-22 12:11:22 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:11:22 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:11:27 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:27 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:27 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:27 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:27 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:28 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:28 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:28 - Started main_function_utilities function in utilities.py
+2024-10-22 12:11:28 - Started load_file function in utilities.py
+2024-10-22 12:11:28 - Finished load_file function in utilities.py
+2024-10-22 12:11:28 - Started match_text function in utilities.py
+2024-10-22 12:11:28 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:11:28 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:11:33 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:33 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:33 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:33 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:33 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:34 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:34 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:34 - Started main_function_utilities function in utilities.py
+2024-10-22 12:11:34 - Started load_file function in utilities.py
+2024-10-22 12:11:34 - Finished load_file function in utilities.py
+2024-10-22 12:11:34 - Started match_text function in utilities.py
+2024-10-22 12:11:34 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:11:34 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:11:39 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:39 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:39 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:39 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:39 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:40 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:40 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:40 - Started main_function_utilities function in utilities.py
+2024-10-22 12:11:40 - Started load_file function in utilities.py
+2024-10-22 12:11:40 - Finished load_file function in utilities.py
+2024-10-22 12:11:40 - Started match_text function in utilities.py
+2024-10-22 12:11:40 - Finished match_text function in utilities.py
+2024-10-22 12:11:40 - Started add_product function in utilities.py
+2024-10-22 12:11:40 - Finished add_product function in utilities.py
+2024-10-22 12:11:40 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:11:45 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:45 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:45 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:45 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:45 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:46 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:46 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:46 - Started main_function_utilities function in utilities.py
+2024-10-22 12:11:46 - Started load_file function in utilities.py
+2024-10-22 12:11:46 - Finished load_file function in utilities.py
+2024-10-22 12:11:46 - Started match_text function in utilities.py
+2024-10-22 12:11:46 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:11:46 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:11:51 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:51 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:51 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:51 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:51 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:52 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:52 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:52 - Started main_function_utilities function in utilities.py
+2024-10-22 12:11:52 - Started load_file function in utilities.py
+2024-10-22 12:11:52 - Finished load_file function in utilities.py
+2024-10-22 12:11:52 - Started match_text function in utilities.py
+2024-10-22 12:11:52 - Finished match_text function in utilities.py
+2024-10-22 12:11:52 - Started add_product function in utilities.py
+2024-10-22 12:11:52 - Finished add_product function in utilities.py
+2024-10-22 12:11:52 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:11:57 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:57 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:57 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:57 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:11:57 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:58 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:11:58 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:11:58 - Started main_function_utilities function in utilities.py
+2024-10-22 12:11:58 - Started load_file function in utilities.py
+2024-10-22 12:11:58 - Finished load_file function in utilities.py
+2024-10-22 12:11:58 - Started match_text function in utilities.py
+2024-10-22 12:11:58 - Finished match_text function in utilities.py
+2024-10-22 12:11:58 - Started add_product function in utilities.py
+2024-10-22 12:11:58 - Finished add_product function in utilities.py
+2024-10-22 12:11:58 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:12:03 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:03 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:03 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:03 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:03 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:04 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:04 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:04 - Started main_function_utilities function in utilities.py
+2024-10-22 12:12:04 - Started load_file function in utilities.py
+2024-10-22 12:12:04 - Finished load_file function in utilities.py
+2024-10-22 12:12:04 - Started match_text function in utilities.py
+2024-10-22 12:12:04 - Finished match_text function in utilities.py
+2024-10-22 12:12:04 - Started add_product function in utilities.py
+2024-10-22 12:12:04 - Finished add_product function in utilities.py
+2024-10-22 12:12:04 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:12:09 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:09 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:09 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:09 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:09 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:10 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:10 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:10 - Started main_function_utilities function in utilities.py
+2024-10-22 12:12:10 - Started load_file function in utilities.py
+2024-10-22 12:12:10 - Finished load_file function in utilities.py
+2024-10-22 12:12:10 - Started match_text function in utilities.py
+2024-10-22 12:12:10 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:12:10 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:12:15 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:15 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:15 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:15 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:15 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:16 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:16 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:16 - Started main_function_utilities function in utilities.py
+2024-10-22 12:12:16 - Started load_file function in utilities.py
+2024-10-22 12:12:16 - Finished load_file function in utilities.py
+2024-10-22 12:12:16 - Started match_text function in utilities.py
+2024-10-22 12:12:16 - Finished match_text function in utilities.py
+2024-10-22 12:12:16 - Started add_product function in utilities.py
+2024-10-22 12:12:16 - Finished add_product function in utilities.py
+2024-10-22 12:12:16 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:12:21 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:21 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:21 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:21 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:21 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:22 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:22 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:22 - Started main_function_utilities function in utilities.py
+2024-10-22 12:12:22 - Started load_file function in utilities.py
+2024-10-22 12:12:22 - Finished load_file function in utilities.py
+2024-10-22 12:12:22 - Started match_text function in utilities.py
+2024-10-22 12:12:22 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:12:22 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:12:27 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:27 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:27 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:27 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:27 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:28 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:28 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:28 - Started main_function_utilities function in utilities.py
+2024-10-22 12:12:28 - Started load_file function in utilities.py
+2024-10-22 12:12:28 - Finished load_file function in utilities.py
+2024-10-22 12:12:28 - Started match_text function in utilities.py
+2024-10-22 12:12:28 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:12:28 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:12:33 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:33 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:33 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:33 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:33 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:34 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:34 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:34 - Started main_function_utilities function in utilities.py
+2024-10-22 12:12:34 - Started load_file function in utilities.py
+2024-10-22 12:12:34 - Finished load_file function in utilities.py
+2024-10-22 12:12:34 - Started match_text function in utilities.py
+2024-10-22 12:12:34 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:12:34 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:12:39 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:39 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:39 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:39 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:39 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:40 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:40 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:40 - Started main_function_utilities function in utilities.py
+2024-10-22 12:12:40 - Started load_file function in utilities.py
+2024-10-22 12:12:40 - Finished load_file function in utilities.py
+2024-10-22 12:12:40 - Started match_text function in utilities.py
+2024-10-22 12:12:40 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:12:40 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:12:45 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:45 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:45 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:45 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:45 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:46 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:46 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:46 - Started main_function_utilities function in utilities.py
+2024-10-22 12:12:46 - Started load_file function in utilities.py
+2024-10-22 12:12:46 - Finished load_file function in utilities.py
+2024-10-22 12:12:46 - Started match_text function in utilities.py
+2024-10-22 12:12:46 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:12:46 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:12:51 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:51 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:51 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:51 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:51 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:52 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:52 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:52 - Started main_function_utilities function in utilities.py
+2024-10-22 12:12:52 - Started load_file function in utilities.py
+2024-10-22 12:12:52 - Finished load_file function in utilities.py
+2024-10-22 12:12:52 - Started match_text function in utilities.py
+2024-10-22 12:12:52 - Finished match_text function in utilities.py
+2024-10-22 12:12:52 - Started add_product function in utilities.py
+2024-10-22 12:12:52 - Finished add_product function in utilities.py
+2024-10-22 12:12:52 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:12:57 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:57 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:57 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:57 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:12:57 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:58 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:12:58 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:12:58 - Started main_function_utilities function in utilities.py
+2024-10-22 12:12:58 - Started load_file function in utilities.py
+2024-10-22 12:12:58 - Finished load_file function in utilities.py
+2024-10-22 12:12:58 - Started match_text function in utilities.py
+2024-10-22 12:12:58 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:12:58 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:13:03 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:03 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:03 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:03 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:03 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:04 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:04 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:04 - Started main_function_utilities function in utilities.py
+2024-10-22 12:13:04 - Started load_file function in utilities.py
+2024-10-22 12:13:04 - Finished load_file function in utilities.py
+2024-10-22 12:13:04 - Started match_text function in utilities.py
+2024-10-22 12:13:04 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:13:04 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:13:09 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:09 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:09 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:09 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:09 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:10 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:10 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:10 - Started main_function_utilities function in utilities.py
+2024-10-22 12:13:10 - Started load_file function in utilities.py
+2024-10-22 12:13:10 - Finished load_file function in utilities.py
+2024-10-22 12:13:10 - Started match_text function in utilities.py
+2024-10-22 12:13:10 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:13:10 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:13:15 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:15 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:15 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:15 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:15 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:17 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:17 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:17 - Started main_function_utilities function in utilities.py
+2024-10-22 12:13:17 - Started load_file function in utilities.py
+2024-10-22 12:13:17 - Finished load_file function in utilities.py
+2024-10-22 12:13:17 - Started match_text function in utilities.py
+2024-10-22 12:13:17 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:13:17 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:13:22 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:22 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:22 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:22 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:22 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:23 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:23 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:23 - Started main_function_utilities function in utilities.py
+2024-10-22 12:13:23 - Started load_file function in utilities.py
+2024-10-22 12:13:23 - Finished load_file function in utilities.py
+2024-10-22 12:13:23 - Started match_text function in utilities.py
+2024-10-22 12:13:23 - Finished match_text function in utilities.py
+2024-10-22 12:13:23 - Started add_product function in utilities.py
+2024-10-22 12:13:23 - Finished add_product function in utilities.py
+2024-10-22 12:13:23 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:13:28 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:28 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:28 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:28 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:28 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:33 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:33 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:33 - Started main_function_utilities function in utilities.py
+2024-10-22 12:13:33 - Started load_file function in utilities.py
+2024-10-22 12:13:33 - Finished load_file function in utilities.py
+2024-10-22 12:13:33 - Started match_text function in utilities.py
+2024-10-22 12:13:33 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:13:33 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:13:38 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:38 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:38 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:38 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:38 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:39 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:39 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:39 - Started main_function_utilities function in utilities.py
+2024-10-22 12:13:39 - Started load_file function in utilities.py
+2024-10-22 12:13:39 - Finished load_file function in utilities.py
+2024-10-22 12:13:39 - Started match_text function in utilities.py
+2024-10-22 12:13:39 - Finished match_text function in utilities.py
+2024-10-22 12:13:39 - Started add_product function in utilities.py
+2024-10-22 12:13:39 - Finished add_product function in utilities.py
+2024-10-22 12:13:39 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:13:44 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:44 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:44 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:44 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:44 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:46 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:46 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:46 - Started main_function_utilities function in utilities.py
+2024-10-22 12:13:46 - Started load_file function in utilities.py
+2024-10-22 12:13:46 - Finished load_file function in utilities.py
+2024-10-22 12:13:46 - Started match_text function in utilities.py
+2024-10-22 12:13:46 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:13:46 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:13:51 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:51 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:51 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:51 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:13:51 - Started prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:53 - Finished prompt_usage function in imageRecognitionGemini.py
+2024-10-22 12:13:53 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:13:53 - Started main_function_utilities function in utilities.py
+2024-10-22 12:13:53 - Started load_file function in utilities.py
+2024-10-22 12:13:53 - Finished load_file function in utilities.py
+2024-10-22 12:13:53 - Started match_text function in utilities.py
+2024-10-22 12:13:53 - Finished match_text function in utilities.py
+2024-10-22 12:13:53 - Started add_product function in utilities.py
+2024-10-22 12:13:53 - Finished add_product function in utilities.py
+2024-10-22 12:13:53 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:13:53 - Finished main function in main.py
+2024-10-22 12:17:28 - Started main function in main.py
+2024-10-22 12:17:33 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:17:33 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:17:33 - Finished gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:17:33 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:17:33 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:17:33 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\1.webp
+2024-10-22 12:17:36 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\1.webp
+2024-10-22 12:17:36 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:17:36 - Started main_function_utilities function in utilities.py
+2024-10-22 12:17:36 - Started load_file function in utilities.py
+2024-10-22 12:17:37 - Finished load_file function in utilities.py
+2024-10-22 12:17:37 - Started match_text function in utilities.py
+2024-10-22 12:17:37 - Finished match_text function in utilities.py
+2024-10-22 12:17:37 - Started add_product function in utilities.py
+2024-10-22 12:17:37 - Finished add_product function in utilities.py
+2024-10-22 12:17:37 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:17:42 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:17:42 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:17:42 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:17:42 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:17:42 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\10.webp
+2024-10-22 12:17:43 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\10.webp
+2024-10-22 12:17:43 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:17:43 - Started main_function_utilities function in utilities.py
+2024-10-22 12:17:43 - Started load_file function in utilities.py
+2024-10-22 12:17:43 - Finished load_file function in utilities.py
+2024-10-22 12:17:43 - Started match_text function in utilities.py
+2024-10-22 12:17:43 - Finished match_text function in utilities.py
+2024-10-22 12:17:43 - Started add_product function in utilities.py
+2024-10-22 12:17:43 - Finished add_product function in utilities.py
+2024-10-22 12:17:43 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:17:48 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:17:48 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:17:48 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:17:48 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:17:48 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\11.webp
+2024-10-22 12:17:49 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\11.webp
+2024-10-22 12:17:49 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:17:49 - Started main_function_utilities function in utilities.py
+2024-10-22 12:17:49 - Started load_file function in utilities.py
+2024-10-22 12:17:49 - Finished load_file function in utilities.py
+2024-10-22 12:17:49 - Started match_text function in utilities.py
+2024-10-22 12:17:49 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:17:49 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:17:54 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:17:54 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:17:54 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:17:54 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:17:54 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\12.webp
+2024-10-22 12:17:56 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\12.webp
+2024-10-22 12:17:56 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:17:56 - Started main_function_utilities function in utilities.py
+2024-10-22 12:17:56 - Started load_file function in utilities.py
+2024-10-22 12:17:56 - Finished load_file function in utilities.py
+2024-10-22 12:17:56 - Started match_text function in utilities.py
+2024-10-22 12:17:56 - Finished match_text function in utilities.py
+2024-10-22 12:17:56 - Started add_product function in utilities.py
+2024-10-22 12:17:56 - Finished add_product function in utilities.py
+2024-10-22 12:17:56 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:18:01 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:01 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:18:01 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:01 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:01 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\13.webp
+2024-10-22 12:18:02 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\13.webp
+2024-10-22 12:18:02 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:02 - Started main_function_utilities function in utilities.py
+2024-10-22 12:18:02 - Started load_file function in utilities.py
+2024-10-22 12:18:02 - Finished load_file function in utilities.py
+2024-10-22 12:18:02 - Started match_text function in utilities.py
+2024-10-22 12:18:02 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:18:02 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:18:07 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:07 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:18:07 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:07 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:07 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\14.webp
+2024-10-22 12:18:09 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\14.webp
+2024-10-22 12:18:09 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:09 - Started main_function_utilities function in utilities.py
+2024-10-22 12:18:09 - Started load_file function in utilities.py
+2024-10-22 12:18:09 - Finished load_file function in utilities.py
+2024-10-22 12:18:09 - Started match_text function in utilities.py
+2024-10-22 12:18:09 - Finished match_text function in utilities.py
+2024-10-22 12:18:09 - Started add_product function in utilities.py
+2024-10-22 12:18:09 - Finished add_product function in utilities.py
+2024-10-22 12:18:09 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:18:14 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:14 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:18:14 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:14 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:14 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\15.webp
+2024-10-22 12:18:15 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\15.webp
+2024-10-22 12:18:15 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:15 - Started main_function_utilities function in utilities.py
+2024-10-22 12:18:15 - Started load_file function in utilities.py
+2024-10-22 12:18:15 - Finished load_file function in utilities.py
+2024-10-22 12:18:15 - Started match_text function in utilities.py
+2024-10-22 12:18:15 - Finished match_text function in utilities.py
+2024-10-22 12:18:15 - Started add_product function in utilities.py
+2024-10-22 12:18:15 - Finished add_product function in utilities.py
+2024-10-22 12:18:15 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:18:20 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:20 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:18:20 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:20 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:20 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\16.webp
+2024-10-22 12:18:22 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\16.webp
+2024-10-22 12:18:22 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:22 - Started main_function_utilities function in utilities.py
+2024-10-22 12:18:22 - Started load_file function in utilities.py
+2024-10-22 12:18:22 - Finished load_file function in utilities.py
+2024-10-22 12:18:22 - Started match_text function in utilities.py
+2024-10-22 12:18:22 - Finished match_text function in utilities.py
+2024-10-22 12:18:22 - Started add_product function in utilities.py
+2024-10-22 12:18:22 - Finished add_product function in utilities.py
+2024-10-22 12:18:22 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:18:27 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:27 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:18:27 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:27 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:27 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\17.webp
+2024-10-22 12:18:29 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\17.webp
+2024-10-22 12:18:29 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:29 - Started main_function_utilities function in utilities.py
+2024-10-22 12:18:29 - Started load_file function in utilities.py
+2024-10-22 12:18:29 - Finished load_file function in utilities.py
+2024-10-22 12:18:29 - Started match_text function in utilities.py
+2024-10-22 12:18:29 - Finished match_text function in utilities.py
+2024-10-22 12:18:29 - Started add_product function in utilities.py
+2024-10-22 12:18:29 - Finished add_product function in utilities.py
+2024-10-22 12:18:29 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:18:34 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:34 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:18:34 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:34 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:34 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\18.webp
+2024-10-22 12:18:35 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\18.webp
+2024-10-22 12:18:35 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:35 - Started main_function_utilities function in utilities.py
+2024-10-22 12:18:35 - Started load_file function in utilities.py
+2024-10-22 12:18:35 - Finished load_file function in utilities.py
+2024-10-22 12:18:35 - Started match_text function in utilities.py
+2024-10-22 12:18:35 - Finished match_text function in utilities.py
+2024-10-22 12:18:35 - Started add_product function in utilities.py
+2024-10-22 12:18:35 - Finished add_product function in utilities.py
+2024-10-22 12:18:35 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:18:40 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:40 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:18:40 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:40 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:40 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\19.webp
+2024-10-22 12:18:41 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\19.webp
+2024-10-22 12:18:41 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:41 - Started main_function_utilities function in utilities.py
+2024-10-22 12:18:41 - Started load_file function in utilities.py
+2024-10-22 12:18:41 - Finished load_file function in utilities.py
+2024-10-22 12:18:41 - Started match_text function in utilities.py
+2024-10-22 12:18:41 - Finished match_text function in utilities.py
+2024-10-22 12:18:41 - Started add_product function in utilities.py
+2024-10-22 12:18:41 - Finished add_product function in utilities.py
+2024-10-22 12:18:41 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:18:46 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:46 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:18:46 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:46 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:46 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\2.webp
+2024-10-22 12:18:47 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\2.webp
+2024-10-22 12:18:47 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:47 - Started main_function_utilities function in utilities.py
+2024-10-22 12:18:47 - Started load_file function in utilities.py
+2024-10-22 12:18:47 - Finished load_file function in utilities.py
+2024-10-22 12:18:47 - Started match_text function in utilities.py
+2024-10-22 12:18:47 - Finished match_text function in utilities.py
+2024-10-22 12:18:47 - Started add_product function in utilities.py
+2024-10-22 12:18:47 - Finished add_product function in utilities.py
+2024-10-22 12:18:47 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:18:52 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:52 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:18:52 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:52 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:52 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\20.webp
+2024-10-22 12:18:54 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\20.webp
+2024-10-22 12:18:54 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:54 - Started main_function_utilities function in utilities.py
+2024-10-22 12:18:54 - Started load_file function in utilities.py
+2024-10-22 12:18:54 - Finished load_file function in utilities.py
+2024-10-22 12:18:54 - Started match_text function in utilities.py
+2024-10-22 12:18:54 - Finished match_text function in utilities.py
+2024-10-22 12:18:54 - Started add_product function in utilities.py
+2024-10-22 12:18:54 - Finished add_product function in utilities.py
+2024-10-22 12:18:54 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:18:59 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:18:59 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:18:59 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:59 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:18:59 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\21.webp
+2024-10-22 12:19:00 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\21.webp
+2024-10-22 12:19:00 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:00 - Started main_function_utilities function in utilities.py
+2024-10-22 12:19:00 - Started load_file function in utilities.py
+2024-10-22 12:19:00 - Finished load_file function in utilities.py
+2024-10-22 12:19:00 - Started match_text function in utilities.py
+2024-10-22 12:19:00 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:19:00 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:19:05 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:05 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:19:05 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:05 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:05 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\22.webp
+2024-10-22 12:19:06 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\22.webp
+2024-10-22 12:19:06 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:06 - Started main_function_utilities function in utilities.py
+2024-10-22 12:19:06 - Started load_file function in utilities.py
+2024-10-22 12:19:06 - Finished load_file function in utilities.py
+2024-10-22 12:19:06 - Started match_text function in utilities.py
+2024-10-22 12:19:06 - Finished match_text function in utilities.py
+2024-10-22 12:19:06 - Started add_product function in utilities.py
+2024-10-22 12:19:06 - Finished add_product function in utilities.py
+2024-10-22 12:19:06 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:19:11 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:11 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:19:11 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:11 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:11 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\23.webp
+2024-10-22 12:19:11 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\23.webp
+2024-10-22 12:19:11 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:11 - Started main_function_utilities function in utilities.py
+2024-10-22 12:19:11 - Started load_file function in utilities.py
+2024-10-22 12:19:11 - Finished load_file function in utilities.py
+2024-10-22 12:19:11 - Started match_text function in utilities.py
+2024-10-22 12:19:11 - Finished match_text function in utilities.py
+2024-10-22 12:19:11 - Started add_product function in utilities.py
+2024-10-22 12:19:11 - Finished add_product function in utilities.py
+2024-10-22 12:19:11 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:19:16 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:16 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:19:16 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:16 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:16 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\24.webp
+2024-10-22 12:19:17 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\24.webp
+2024-10-22 12:19:17 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:17 - Started main_function_utilities function in utilities.py
+2024-10-22 12:19:17 - Started load_file function in utilities.py
+2024-10-22 12:19:17 - Finished load_file function in utilities.py
+2024-10-22 12:19:17 - Started match_text function in utilities.py
+2024-10-22 12:19:17 - Finished match_text function in utilities.py
+2024-10-22 12:19:17 - Started add_product function in utilities.py
+2024-10-22 12:19:17 - Finished add_product function in utilities.py
+2024-10-22 12:19:17 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:19:22 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:22 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:19:22 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:22 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:22 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\25.webp
+2024-10-22 12:19:23 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\25.webp
+2024-10-22 12:19:23 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:23 - Started main_function_utilities function in utilities.py
+2024-10-22 12:19:23 - Started load_file function in utilities.py
+2024-10-22 12:19:23 - Finished load_file function in utilities.py
+2024-10-22 12:19:23 - Started match_text function in utilities.py
+2024-10-22 12:19:23 - Finished match_text function in utilities.py
+2024-10-22 12:19:23 - Started add_product function in utilities.py
+2024-10-22 12:19:23 - Finished add_product function in utilities.py
+2024-10-22 12:19:23 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:19:28 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:28 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:19:28 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:28 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:28 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\26.webp
+2024-10-22 12:19:29 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\26.webp
+2024-10-22 12:19:29 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:29 - Started main_function_utilities function in utilities.py
+2024-10-22 12:19:29 - Started load_file function in utilities.py
+2024-10-22 12:19:29 - Finished load_file function in utilities.py
+2024-10-22 12:19:29 - Started match_text function in utilities.py
+2024-10-22 12:19:29 - Finished match_text function in utilities.py
+2024-10-22 12:19:29 - Started add_product function in utilities.py
+2024-10-22 12:19:29 - Finished add_product function in utilities.py
+2024-10-22 12:19:29 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:19:34 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:34 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:19:34 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:34 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:34 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\27.webp
+2024-10-22 12:19:35 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\27.webp
+2024-10-22 12:19:35 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:35 - Started main_function_utilities function in utilities.py
+2024-10-22 12:19:35 - Started load_file function in utilities.py
+2024-10-22 12:19:35 - Finished load_file function in utilities.py
+2024-10-22 12:19:35 - Started match_text function in utilities.py
+2024-10-22 12:19:35 - Finished match_text function in utilities.py
+2024-10-22 12:19:35 - Started add_product function in utilities.py
+2024-10-22 12:19:35 - Finished add_product function in utilities.py
+2024-10-22 12:19:35 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:19:40 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:40 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:19:40 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:40 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:40 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\28.webp
+2024-10-22 12:19:42 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\28.webp
+2024-10-22 12:19:42 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:42 - Started main_function_utilities function in utilities.py
+2024-10-22 12:19:42 - Started load_file function in utilities.py
+2024-10-22 12:19:42 - Finished load_file function in utilities.py
+2024-10-22 12:19:42 - Started match_text function in utilities.py
+2024-10-22 12:19:42 - Finished match_text function in utilities.py
+2024-10-22 12:19:42 - Started add_product function in utilities.py
+2024-10-22 12:19:42 - Finished add_product function in utilities.py
+2024-10-22 12:19:42 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:19:47 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:47 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:19:47 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:47 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:47 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\29.webp
+2024-10-22 12:19:49 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\29.webp
+2024-10-22 12:19:49 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:49 - Started main_function_utilities function in utilities.py
+2024-10-22 12:19:49 - Started load_file function in utilities.py
+2024-10-22 12:19:49 - Finished load_file function in utilities.py
+2024-10-22 12:19:49 - Started match_text function in utilities.py
+2024-10-22 12:19:49 - Finished match_text function in utilities.py
+2024-10-22 12:19:49 - Started add_product function in utilities.py
+2024-10-22 12:19:49 - Finished add_product function in utilities.py
+2024-10-22 12:19:49 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:19:54 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:54 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:19:54 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:54 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:19:54 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\3.webp
+2024-10-22 12:19:56 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\3.webp
+2024-10-22 12:19:56 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:19:56 - Started main_function_utilities function in utilities.py
+2024-10-22 12:19:56 - Started load_file function in utilities.py
+2024-10-22 12:19:56 - Finished load_file function in utilities.py
+2024-10-22 12:19:56 - Started match_text function in utilities.py
+2024-10-22 12:19:56 - Finished match_text function in utilities.py
+2024-10-22 12:19:56 - Started add_product function in utilities.py
+2024-10-22 12:19:56 - Finished add_product function in utilities.py
+2024-10-22 12:19:56 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:20:01 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:01 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:20:01 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:01 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:01 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\30.webp
+2024-10-22 12:20:03 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\30.webp
+2024-10-22 12:20:03 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:03 - Started main_function_utilities function in utilities.py
+2024-10-22 12:20:03 - Started load_file function in utilities.py
+2024-10-22 12:20:03 - Finished load_file function in utilities.py
+2024-10-22 12:20:03 - Started match_text function in utilities.py
+2024-10-22 12:20:03 - Finished match_text function in utilities.py
+2024-10-22 12:20:03 - Started add_product function in utilities.py
+2024-10-22 12:20:03 - Finished add_product function in utilities.py
+2024-10-22 12:20:03 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:20:08 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:08 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:20:08 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:08 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:08 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\31.webp
+2024-10-22 12:20:10 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\31.webp
+2024-10-22 12:20:10 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:10 - Started main_function_utilities function in utilities.py
+2024-10-22 12:20:10 - Started load_file function in utilities.py
+2024-10-22 12:20:10 - Finished load_file function in utilities.py
+2024-10-22 12:20:10 - Started match_text function in utilities.py
+2024-10-22 12:20:10 - Finished match_text function in utilities.py
+2024-10-22 12:20:10 - Started add_product function in utilities.py
+2024-10-22 12:20:10 - Finished add_product function in utilities.py
+2024-10-22 12:20:10 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:20:15 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:15 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:20:15 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:15 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:15 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\32.webp
+2024-10-22 12:20:16 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\32.webp
+2024-10-22 12:20:16 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:16 - Started main_function_utilities function in utilities.py
+2024-10-22 12:20:16 - Started load_file function in utilities.py
+2024-10-22 12:20:16 - Finished load_file function in utilities.py
+2024-10-22 12:20:16 - Started match_text function in utilities.py
+2024-10-22 12:20:16 - Finished match_text function in utilities.py
+2024-10-22 12:20:16 - Started add_product function in utilities.py
+2024-10-22 12:20:16 - Finished add_product function in utilities.py
+2024-10-22 12:20:16 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:20:21 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:21 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:20:21 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:21 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:21 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\33.webp
+2024-10-22 12:20:22 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\33.webp
+2024-10-22 12:20:22 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:22 - Started main_function_utilities function in utilities.py
+2024-10-22 12:20:22 - Started load_file function in utilities.py
+2024-10-22 12:20:22 - Finished load_file function in utilities.py
+2024-10-22 12:20:22 - Started match_text function in utilities.py
+2024-10-22 12:20:22 - Finished match_text function in utilities.py
+2024-10-22 12:20:22 - Started add_product function in utilities.py
+2024-10-22 12:20:22 - Finished add_product function in utilities.py
+2024-10-22 12:20:22 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:20:27 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:27 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:20:27 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:27 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:27 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\34.webp
+2024-10-22 12:20:27 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\34.webp
+2024-10-22 12:20:27 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:27 - Started main_function_utilities function in utilities.py
+2024-10-22 12:20:27 - Started load_file function in utilities.py
+2024-10-22 12:20:27 - Finished load_file function in utilities.py
+2024-10-22 12:20:27 - Started match_text function in utilities.py
+2024-10-22 12:20:27 - Finished match_text function in utilities.py
+2024-10-22 12:20:27 - Started add_product function in utilities.py
+2024-10-22 12:20:28 - Finished add_product function in utilities.py
+2024-10-22 12:20:28 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:20:33 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:33 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:20:33 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:33 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:33 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\35.webp
+2024-10-22 12:20:33 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\35.webp
+2024-10-22 12:20:33 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:33 - Started main_function_utilities function in utilities.py
+2024-10-22 12:20:33 - Started load_file function in utilities.py
+2024-10-22 12:20:33 - Finished load_file function in utilities.py
+2024-10-22 12:20:33 - Started match_text function in utilities.py
+2024-10-22 12:20:33 - Finished match_text function in utilities.py
+2024-10-22 12:20:33 - Started add_product function in utilities.py
+2024-10-22 12:20:33 - Finished add_product function in utilities.py
+2024-10-22 12:20:33 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:20:38 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:38 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:20:38 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:38 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:38 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\36.webp
+2024-10-22 12:20:41 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\36.webp
+2024-10-22 12:20:41 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:41 - Started main_function_utilities function in utilities.py
+2024-10-22 12:20:41 - Started load_file function in utilities.py
+2024-10-22 12:20:41 - Finished load_file function in utilities.py
+2024-10-22 12:20:41 - Started match_text function in utilities.py
+2024-10-22 12:20:41 - Finished match_text function in utilities.py
+2024-10-22 12:20:41 - Started add_product function in utilities.py
+2024-10-22 12:20:41 - Finished add_product function in utilities.py
+2024-10-22 12:20:41 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:20:46 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:46 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:20:46 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:46 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:46 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\37.webp
+2024-10-22 12:20:47 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\37.webp
+2024-10-22 12:20:47 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:47 - Started main_function_utilities function in utilities.py
+2024-10-22 12:20:47 - Started load_file function in utilities.py
+2024-10-22 12:20:48 - Finished load_file function in utilities.py
+2024-10-22 12:20:48 - Started match_text function in utilities.py
+2024-10-22 12:20:48 - Finished match_text function in utilities.py
+2024-10-22 12:20:48 - Started add_product function in utilities.py
+2024-10-22 12:20:48 - Finished add_product function in utilities.py
+2024-10-22 12:20:48 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:20:53 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:53 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:20:53 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:53 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:53 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\38.webp
+2024-10-22 12:20:53 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\38.webp
+2024-10-22 12:20:53 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:53 - Started main_function_utilities function in utilities.py
+2024-10-22 12:20:53 - Started load_file function in utilities.py
+2024-10-22 12:20:53 - Finished load_file function in utilities.py
+2024-10-22 12:20:53 - Started match_text function in utilities.py
+2024-10-22 12:20:53 - Finished match_text function in utilities.py
+2024-10-22 12:20:53 - Started add_product function in utilities.py
+2024-10-22 12:20:53 - Finished add_product function in utilities.py
+2024-10-22 12:20:53 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:20:58 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:58 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:20:58 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:58 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:20:58 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\39.webp
+2024-10-22 12:20:59 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\39.webp
+2024-10-22 12:20:59 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:20:59 - Started main_function_utilities function in utilities.py
+2024-10-22 12:20:59 - Started load_file function in utilities.py
+2024-10-22 12:20:59 - Finished load_file function in utilities.py
+2024-10-22 12:20:59 - Started match_text function in utilities.py
+2024-10-22 12:20:59 - Finished match_text function in utilities.py
+2024-10-22 12:20:59 - Started add_product function in utilities.py
+2024-10-22 12:20:59 - Finished add_product function in utilities.py
+2024-10-22 12:20:59 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:21:04 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:04 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:21:04 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:04 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:04 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\4.webp
+2024-10-22 12:21:06 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\4.webp
+2024-10-22 12:21:06 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:06 - Started main_function_utilities function in utilities.py
+2024-10-22 12:21:06 - Started load_file function in utilities.py
+2024-10-22 12:21:06 - Finished load_file function in utilities.py
+2024-10-22 12:21:06 - Started match_text function in utilities.py
+2024-10-22 12:21:06 - Finished match_text function in utilities.py
+2024-10-22 12:21:06 - Started add_product function in utilities.py
+2024-10-22 12:21:06 - Finished add_product function in utilities.py
+2024-10-22 12:21:06 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:21:11 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:11 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:21:11 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:11 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:11 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\40.webp
+2024-10-22 12:21:12 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\40.webp
+2024-10-22 12:21:12 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:12 - Started main_function_utilities function in utilities.py
+2024-10-22 12:21:12 - Started load_file function in utilities.py
+2024-10-22 12:21:12 - Finished load_file function in utilities.py
+2024-10-22 12:21:12 - Started match_text function in utilities.py
+2024-10-22 12:21:12 - Finished match_text function in utilities.py
+2024-10-22 12:21:12 - Started add_product function in utilities.py
+2024-10-22 12:21:12 - Finished add_product function in utilities.py
+2024-10-22 12:21:12 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:21:17 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:17 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:21:17 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:17 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:17 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\41.webp
+2024-10-22 12:21:17 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\41.webp
+2024-10-22 12:21:17 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:17 - Started main_function_utilities function in utilities.py
+2024-10-22 12:21:17 - Started load_file function in utilities.py
+2024-10-22 12:21:17 - Finished load_file function in utilities.py
+2024-10-22 12:21:17 - Started match_text function in utilities.py
+2024-10-22 12:21:17 - Finished match_text function in utilities.py
+2024-10-22 12:21:17 - Started add_product function in utilities.py
+2024-10-22 12:21:17 - Finished add_product function in utilities.py
+2024-10-22 12:21:17 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:21:22 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:22 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:21:22 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:22 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:22 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\42.webp
+2024-10-22 12:21:24 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\42.webp
+2024-10-22 12:21:24 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:24 - Started main_function_utilities function in utilities.py
+2024-10-22 12:21:24 - Started load_file function in utilities.py
+2024-10-22 12:21:24 - Finished load_file function in utilities.py
+2024-10-22 12:21:24 - Started match_text function in utilities.py
+2024-10-22 12:21:24 - Finished match_text function in utilities.py
+2024-10-22 12:21:24 - Started add_product function in utilities.py
+2024-10-22 12:21:24 - Finished add_product function in utilities.py
+2024-10-22 12:21:24 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:21:29 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:29 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:21:29 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:29 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:29 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\43.webp
+2024-10-22 12:21:30 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\43.webp
+2024-10-22 12:21:30 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:30 - Started main_function_utilities function in utilities.py
+2024-10-22 12:21:30 - Started load_file function in utilities.py
+2024-10-22 12:21:30 - Finished load_file function in utilities.py
+2024-10-22 12:21:30 - Started match_text function in utilities.py
+2024-10-22 12:21:30 - Finished match_text function in utilities.py
+2024-10-22 12:21:30 - Started add_product function in utilities.py
+2024-10-22 12:21:30 - Finished add_product function in utilities.py
+2024-10-22 12:21:30 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:21:35 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:35 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:21:35 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:35 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:35 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\44.webp
+2024-10-22 12:21:35 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\44.webp
+2024-10-22 12:21:35 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:35 - Started main_function_utilities function in utilities.py
+2024-10-22 12:21:35 - Started load_file function in utilities.py
+2024-10-22 12:21:35 - Finished load_file function in utilities.py
+2024-10-22 12:21:35 - Started match_text function in utilities.py
+2024-10-22 12:21:35 - Finished match_text function in utilities.py
+2024-10-22 12:21:35 - Started add_product function in utilities.py
+2024-10-22 12:21:35 - Finished add_product function in utilities.py
+2024-10-22 12:21:35 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:21:40 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:40 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:21:40 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:40 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:40 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\45.webp
+2024-10-22 12:21:41 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\45.webp
+2024-10-22 12:21:41 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:41 - Started main_function_utilities function in utilities.py
+2024-10-22 12:21:41 - Started load_file function in utilities.py
+2024-10-22 12:21:41 - Finished load_file function in utilities.py
+2024-10-22 12:21:41 - Started match_text function in utilities.py
+2024-10-22 12:21:41 - Finished match_text function in utilities.py
+2024-10-22 12:21:41 - Started add_product function in utilities.py
+2024-10-22 12:21:41 - Finished add_product function in utilities.py
+2024-10-22 12:21:41 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:21:46 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:46 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:21:46 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:46 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:46 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\46.webp
+2024-10-22 12:21:48 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\46.webp
+2024-10-22 12:21:48 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:48 - Started main_function_utilities function in utilities.py
+2024-10-22 12:21:48 - Started load_file function in utilities.py
+2024-10-22 12:21:48 - Finished load_file function in utilities.py
+2024-10-22 12:21:48 - Started match_text function in utilities.py
+2024-10-22 12:21:48 - Finished match_text function in utilities.py
+2024-10-22 12:21:48 - Started add_product function in utilities.py
+2024-10-22 12:21:48 - Finished add_product function in utilities.py
+2024-10-22 12:21:48 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:21:53 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:53 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:21:53 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:53 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:53 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\47.webp
+2024-10-22 12:21:54 - An error has occurred using prompt_usage function in imageRecognitionGemini.py. More details: 503 The model is overloaded. Please try again later.
+2024-10-22 12:21:54 - An error has occurred using main_function_imageRecognitionGemini function in imageRecognitionGemini.py. More details: finalResponse is None, please check the logger.
+2024-10-22 12:21:54 - Started main_function_utilities function in utilities.py
+2024-10-22 12:21:54 - Started load_file function in utilities.py
+2024-10-22 12:21:54 - Finished load_file function in utilities.py
+2024-10-22 12:21:54 - Started match_text function in utilities.py
+2024-10-22 12:21:54 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:21:54 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:21:59 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:21:59 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:21:59 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:59 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:21:59 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\48.webp
+2024-10-22 12:22:01 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\48.webp
+2024-10-22 12:22:01 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:01 - Started main_function_utilities function in utilities.py
+2024-10-22 12:22:01 - Started load_file function in utilities.py
+2024-10-22 12:22:01 - Finished load_file function in utilities.py
+2024-10-22 12:22:01 - Started match_text function in utilities.py
+2024-10-22 12:22:01 - Finished match_text function in utilities.py
+2024-10-22 12:22:01 - Started add_product function in utilities.py
+2024-10-22 12:22:01 - Finished add_product function in utilities.py
+2024-10-22 12:22:01 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:22:06 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:06 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:22:06 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:06 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:06 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\49.webp
+2024-10-22 12:22:07 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\49.webp
+2024-10-22 12:22:07 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:07 - Started main_function_utilities function in utilities.py
+2024-10-22 12:22:07 - Started load_file function in utilities.py
+2024-10-22 12:22:07 - Finished load_file function in utilities.py
+2024-10-22 12:22:07 - Started match_text function in utilities.py
+2024-10-22 12:22:07 - Finished match_text function in utilities.py
+2024-10-22 12:22:07 - Started add_product function in utilities.py
+2024-10-22 12:22:07 - Finished add_product function in utilities.py
+2024-10-22 12:22:07 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:22:12 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:12 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:22:12 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:12 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:12 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\5.webp
+2024-10-22 12:22:13 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\5.webp
+2024-10-22 12:22:13 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:13 - Started main_function_utilities function in utilities.py
+2024-10-22 12:22:13 - Started load_file function in utilities.py
+2024-10-22 12:22:13 - Finished load_file function in utilities.py
+2024-10-22 12:22:13 - Started match_text function in utilities.py
+2024-10-22 12:22:13 - Finished match_text function in utilities.py
+2024-10-22 12:22:13 - Started add_product function in utilities.py
+2024-10-22 12:22:13 - Finished add_product function in utilities.py
+2024-10-22 12:22:13 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:22:18 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:18 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:22:18 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:18 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:18 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\6.webp
+2024-10-22 12:22:20 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\6.webp
+2024-10-22 12:22:20 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:20 - Started main_function_utilities function in utilities.py
+2024-10-22 12:22:20 - Started load_file function in utilities.py
+2024-10-22 12:22:20 - Finished load_file function in utilities.py
+2024-10-22 12:22:20 - Started match_text function in utilities.py
+2024-10-22 12:22:20 - Finished match_text function in utilities.py
+2024-10-22 12:22:20 - Started add_product function in utilities.py
+2024-10-22 12:22:20 - Finished add_product function in utilities.py
+2024-10-22 12:22:20 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:22:25 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:25 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:22:25 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:25 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:25 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\7.webp
+2024-10-22 12:22:25 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\7.webp
+2024-10-22 12:22:25 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:25 - Started main_function_utilities function in utilities.py
+2024-10-22 12:22:25 - Started load_file function in utilities.py
+2024-10-22 12:22:25 - Finished load_file function in utilities.py
+2024-10-22 12:22:25 - Started match_text function in utilities.py
+2024-10-22 12:22:25 - Finished match_text function in utilities.py
+2024-10-22 12:22:25 - Started add_product function in utilities.py
+2024-10-22 12:22:26 - Finished add_product function in utilities.py
+2024-10-22 12:22:26 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:22:31 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:31 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:22:31 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:31 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:31 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\8.webp
+2024-10-22 12:22:35 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\8.webp
+2024-10-22 12:22:35 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:35 - Started main_function_utilities function in utilities.py
+2024-10-22 12:22:35 - Started load_file function in utilities.py
+2024-10-22 12:22:35 - Finished load_file function in utilities.py
+2024-10-22 12:22:35 - Started match_text function in utilities.py
+2024-10-22 12:22:35 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:22:35 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:22:40 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:40 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:22:40 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:40 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:22:40 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\9.webp
+2024-10-22 12:22:41 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\9.webp
+2024-10-22 12:22:41 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:22:41 - Started main_function_utilities function in utilities.py
+2024-10-22 12:22:41 - Started load_file function in utilities.py
+2024-10-22 12:22:41 - Finished load_file function in utilities.py
+2024-10-22 12:22:41 - Started match_text function in utilities.py
+2024-10-22 12:22:41 - Finished match_text function in utilities.py
+2024-10-22 12:22:41 - Started add_product function in utilities.py
+2024-10-22 12:22:41 - Finished add_product function in utilities.py
+2024-10-22 12:22:41 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:22:41 - Finished main function in main.py
+2024-10-22 12:24:54 - Started main function in main.py
+2024-10-22 12:24:59 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:24:59 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:24:59 - Finished gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:24:59 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:24:59 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:24:59 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\1.webp
+2024-10-22 12:25:00 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\1.webp
+2024-10-22 12:25:00 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:00 - Started main_function_utilities function in utilities.py
+2024-10-22 12:25:00 - Started load_file function in utilities.py
+2024-10-22 12:25:01 - Finished load_file function in utilities.py
+2024-10-22 12:25:01 - Started match_text function in utilities.py
+2024-10-22 12:25:01 - Finished match_text function in utilities.py
+2024-10-22 12:25:01 - Started add_product function in utilities.py
+2024-10-22 12:25:01 - Finished add_product function in utilities.py
+2024-10-22 12:25:01 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:25:06 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:06 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:25:06 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:06 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:06 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\10.webp
+2024-10-22 12:25:07 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\10.webp
+2024-10-22 12:25:07 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:07 - Started main_function_utilities function in utilities.py
+2024-10-22 12:25:07 - Started load_file function in utilities.py
+2024-10-22 12:25:07 - Finished load_file function in utilities.py
+2024-10-22 12:25:07 - Started match_text function in utilities.py
+2024-10-22 12:25:07 - Finished match_text function in utilities.py
+2024-10-22 12:25:07 - Started add_product function in utilities.py
+2024-10-22 12:25:07 - Finished add_product function in utilities.py
+2024-10-22 12:25:07 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:25:12 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:12 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:25:12 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:12 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:12 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\11.webp
+2024-10-22 12:25:13 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\11.webp
+2024-10-22 12:25:13 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:13 - Started main_function_utilities function in utilities.py
+2024-10-22 12:25:13 - Started load_file function in utilities.py
+2024-10-22 12:25:13 - Finished load_file function in utilities.py
+2024-10-22 12:25:13 - Started match_text function in utilities.py
+2024-10-22 12:25:13 - Finished match_text function in utilities.py
+2024-10-22 12:25:13 - Started add_product function in utilities.py
+2024-10-22 12:25:13 - Finished add_product function in utilities.py
+2024-10-22 12:25:13 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:25:18 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:18 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:25:18 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:18 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:18 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\12.webp
+2024-10-22 12:25:20 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\12.webp
+2024-10-22 12:25:20 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:20 - Started main_function_utilities function in utilities.py
+2024-10-22 12:25:20 - Started load_file function in utilities.py
+2024-10-22 12:25:20 - Finished load_file function in utilities.py
+2024-10-22 12:25:20 - Started match_text function in utilities.py
+2024-10-22 12:25:20 - Finished match_text function in utilities.py
+2024-10-22 12:25:20 - Started add_product function in utilities.py
+2024-10-22 12:25:20 - Finished add_product function in utilities.py
+2024-10-22 12:25:20 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:25:25 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:25 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:25:25 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:25 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:25 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\13.webp
+2024-10-22 12:25:25 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\13.webp
+2024-10-22 12:25:25 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:25 - Started main_function_utilities function in utilities.py
+2024-10-22 12:25:25 - Started load_file function in utilities.py
+2024-10-22 12:25:25 - Finished load_file function in utilities.py
+2024-10-22 12:25:25 - Started match_text function in utilities.py
+2024-10-22 12:25:25 - Finished match_text function in utilities.py
+2024-10-22 12:25:25 - Started add_product function in utilities.py
+2024-10-22 12:25:25 - Finished add_product function in utilities.py
+2024-10-22 12:25:25 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:25:30 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:30 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:25:30 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:30 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:30 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\14.webp
+2024-10-22 12:25:32 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\14.webp
+2024-10-22 12:25:32 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:32 - Started main_function_utilities function in utilities.py
+2024-10-22 12:25:32 - Started load_file function in utilities.py
+2024-10-22 12:25:32 - Finished load_file function in utilities.py
+2024-10-22 12:25:32 - Started match_text function in utilities.py
+2024-10-22 12:25:32 - Finished match_text function in utilities.py
+2024-10-22 12:25:32 - Started add_product function in utilities.py
+2024-10-22 12:25:32 - Finished add_product function in utilities.py
+2024-10-22 12:25:32 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:25:37 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:37 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:25:37 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:37 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:37 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\15.webp
+2024-10-22 12:25:38 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\15.webp
+2024-10-22 12:25:38 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:38 - Started main_function_utilities function in utilities.py
+2024-10-22 12:25:38 - Started load_file function in utilities.py
+2024-10-22 12:25:38 - Finished load_file function in utilities.py
+2024-10-22 12:25:38 - Started match_text function in utilities.py
+2024-10-22 12:25:38 - Finished match_text function in utilities.py
+2024-10-22 12:25:38 - Started add_product function in utilities.py
+2024-10-22 12:25:38 - Finished add_product function in utilities.py
+2024-10-22 12:25:38 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:25:43 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:43 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:25:43 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:43 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:43 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\16.webp
+2024-10-22 12:25:44 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\16.webp
+2024-10-22 12:25:44 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:44 - Started main_function_utilities function in utilities.py
+2024-10-22 12:25:44 - Started load_file function in utilities.py
+2024-10-22 12:25:44 - Finished load_file function in utilities.py
+2024-10-22 12:25:44 - Started match_text function in utilities.py
+2024-10-22 12:25:44 - Finished match_text function in utilities.py
+2024-10-22 12:25:44 - Started add_product function in utilities.py
+2024-10-22 12:25:44 - Finished add_product function in utilities.py
+2024-10-22 12:25:44 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:25:49 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:49 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:25:49 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:49 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:49 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\17.webp
+2024-10-22 12:25:50 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\17.webp
+2024-10-22 12:25:50 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:50 - Started main_function_utilities function in utilities.py
+2024-10-22 12:25:50 - Started load_file function in utilities.py
+2024-10-22 12:25:50 - Finished load_file function in utilities.py
+2024-10-22 12:25:50 - Started match_text function in utilities.py
+2024-10-22 12:25:50 - Finished match_text function in utilities.py
+2024-10-22 12:25:50 - Started add_product function in utilities.py
+2024-10-22 12:25:50 - Finished add_product function in utilities.py
+2024-10-22 12:25:50 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:25:55 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:55 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:25:55 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:55 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:25:55 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\18.webp
+2024-10-22 12:25:56 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\18.webp
+2024-10-22 12:25:56 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:25:56 - Started main_function_utilities function in utilities.py
+2024-10-22 12:25:56 - Started load_file function in utilities.py
+2024-10-22 12:25:56 - Finished load_file function in utilities.py
+2024-10-22 12:25:56 - Started match_text function in utilities.py
+2024-10-22 12:25:56 - Finished match_text function in utilities.py
+2024-10-22 12:25:56 - Started add_product function in utilities.py
+2024-10-22 12:25:56 - Finished add_product function in utilities.py
+2024-10-22 12:25:56 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:26:01 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:01 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:26:01 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:01 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:01 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\19.webp
+2024-10-22 12:26:02 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\19.webp
+2024-10-22 12:26:02 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:02 - Started main_function_utilities function in utilities.py
+2024-10-22 12:26:02 - Started load_file function in utilities.py
+2024-10-22 12:26:02 - Finished load_file function in utilities.py
+2024-10-22 12:26:02 - Started match_text function in utilities.py
+2024-10-22 12:26:02 - Finished match_text function in utilities.py
+2024-10-22 12:26:02 - Started add_product function in utilities.py
+2024-10-22 12:26:02 - Finished add_product function in utilities.py
+2024-10-22 12:26:02 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:26:07 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:07 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:26:07 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:07 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:07 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\2.webp
+2024-10-22 12:26:08 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\2.webp
+2024-10-22 12:26:08 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:08 - Started main_function_utilities function in utilities.py
+2024-10-22 12:26:08 - Started load_file function in utilities.py
+2024-10-22 12:26:08 - Finished load_file function in utilities.py
+2024-10-22 12:26:08 - Started match_text function in utilities.py
+2024-10-22 12:26:08 - Finished match_text function in utilities.py
+2024-10-22 12:26:08 - Started add_product function in utilities.py
+2024-10-22 12:26:08 - Finished add_product function in utilities.py
+2024-10-22 12:26:08 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:26:13 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:13 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:26:13 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:13 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:13 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\20.webp
+2024-10-22 12:26:14 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\20.webp
+2024-10-22 12:26:14 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:14 - Started main_function_utilities function in utilities.py
+2024-10-22 12:26:14 - Started load_file function in utilities.py
+2024-10-22 12:26:14 - Finished load_file function in utilities.py
+2024-10-22 12:26:14 - Started match_text function in utilities.py
+2024-10-22 12:26:14 - Finished match_text function in utilities.py
+2024-10-22 12:26:14 - Started add_product function in utilities.py
+2024-10-22 12:26:14 - Finished add_product function in utilities.py
+2024-10-22 12:26:14 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:26:19 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:19 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:26:19 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:19 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:19 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\21.webp
+2024-10-22 12:26:20 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\21.webp
+2024-10-22 12:26:20 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:20 - Started main_function_utilities function in utilities.py
+2024-10-22 12:26:20 - Started load_file function in utilities.py
+2024-10-22 12:26:20 - Finished load_file function in utilities.py
+2024-10-22 12:26:20 - Started match_text function in utilities.py
+2024-10-22 12:26:20 - Finished match_text function in utilities.py
+2024-10-22 12:26:20 - Started add_product function in utilities.py
+2024-10-22 12:26:20 - Finished add_product function in utilities.py
+2024-10-22 12:26:20 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:26:25 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:25 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:26:25 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:25 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:25 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\22.webp
+2024-10-22 12:26:26 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\22.webp
+2024-10-22 12:26:26 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:26 - Started main_function_utilities function in utilities.py
+2024-10-22 12:26:26 - Started load_file function in utilities.py
+2024-10-22 12:26:26 - Finished load_file function in utilities.py
+2024-10-22 12:26:26 - Started match_text function in utilities.py
+2024-10-22 12:26:26 - Finished match_text function in utilities.py
+2024-10-22 12:26:26 - Started add_product function in utilities.py
+2024-10-22 12:26:26 - Finished add_product function in utilities.py
+2024-10-22 12:26:26 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:26:31 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:31 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:26:31 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:31 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:31 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\23.webp
+2024-10-22 12:26:32 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\23.webp
+2024-10-22 12:26:32 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:32 - Started main_function_utilities function in utilities.py
+2024-10-22 12:26:32 - Started load_file function in utilities.py
+2024-10-22 12:26:32 - Finished load_file function in utilities.py
+2024-10-22 12:26:32 - Started match_text function in utilities.py
+2024-10-22 12:26:32 - Finished match_text function in utilities.py
+2024-10-22 12:26:32 - Started add_product function in utilities.py
+2024-10-22 12:26:32 - Finished add_product function in utilities.py
+2024-10-22 12:26:32 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:26:37 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:37 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:26:37 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:37 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:37 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\24.webp
+2024-10-22 12:26:37 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\24.webp
+2024-10-22 12:26:37 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:37 - Started main_function_utilities function in utilities.py
+2024-10-22 12:26:37 - Started load_file function in utilities.py
+2024-10-22 12:26:37 - Finished load_file function in utilities.py
+2024-10-22 12:26:37 - Started match_text function in utilities.py
+2024-10-22 12:26:37 - Finished match_text function in utilities.py
+2024-10-22 12:26:37 - Started add_product function in utilities.py
+2024-10-22 12:26:38 - Finished add_product function in utilities.py
+2024-10-22 12:26:38 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:26:43 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:43 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:26:43 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:43 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:43 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\25.webp
+2024-10-22 12:26:43 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\25.webp
+2024-10-22 12:26:43 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:43 - Started main_function_utilities function in utilities.py
+2024-10-22 12:26:43 - Started load_file function in utilities.py
+2024-10-22 12:26:43 - Finished load_file function in utilities.py
+2024-10-22 12:26:43 - Started match_text function in utilities.py
+2024-10-22 12:26:43 - Finished match_text function in utilities.py
+2024-10-22 12:26:43 - Started add_product function in utilities.py
+2024-10-22 12:26:43 - Finished add_product function in utilities.py
+2024-10-22 12:26:43 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:26:48 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:48 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:26:48 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:48 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:48 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\26.webp
+2024-10-22 12:26:49 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\26.webp
+2024-10-22 12:26:49 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:49 - Started main_function_utilities function in utilities.py
+2024-10-22 12:26:49 - Started load_file function in utilities.py
+2024-10-22 12:26:49 - Finished load_file function in utilities.py
+2024-10-22 12:26:49 - Started match_text function in utilities.py
+2024-10-22 12:26:49 - Finished match_text function in utilities.py
+2024-10-22 12:26:50 - Started add_product function in utilities.py
+2024-10-22 12:26:50 - Finished add_product function in utilities.py
+2024-10-22 12:26:50 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:26:55 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:55 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:26:55 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:55 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:26:55 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\27.webp
+2024-10-22 12:26:55 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\27.webp
+2024-10-22 12:26:55 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:26:55 - Started main_function_utilities function in utilities.py
+2024-10-22 12:26:55 - Started load_file function in utilities.py
+2024-10-22 12:26:55 - Finished load_file function in utilities.py
+2024-10-22 12:26:55 - Started match_text function in utilities.py
+2024-10-22 12:26:55 - Finished match_text function in utilities.py
+2024-10-22 12:26:55 - Started add_product function in utilities.py
+2024-10-22 12:26:55 - Finished add_product function in utilities.py
+2024-10-22 12:26:55 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:27:00 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:00 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:27:00 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:00 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:00 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\28.webp
+2024-10-22 12:27:02 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\28.webp
+2024-10-22 12:27:02 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:02 - Started main_function_utilities function in utilities.py
+2024-10-22 12:27:02 - Started load_file function in utilities.py
+2024-10-22 12:27:02 - Finished load_file function in utilities.py
+2024-10-22 12:27:02 - Started match_text function in utilities.py
+2024-10-22 12:27:02 - Finished match_text function in utilities.py
+2024-10-22 12:27:02 - Started add_product function in utilities.py
+2024-10-22 12:27:02 - Finished add_product function in utilities.py
+2024-10-22 12:27:02 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:27:07 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:07 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:27:07 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:07 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:07 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\29.webp
+2024-10-22 12:27:07 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\29.webp
+2024-10-22 12:27:07 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:07 - Started main_function_utilities function in utilities.py
+2024-10-22 12:27:07 - Started load_file function in utilities.py
+2024-10-22 12:27:07 - Finished load_file function in utilities.py
+2024-10-22 12:27:07 - Started match_text function in utilities.py
+2024-10-22 12:27:07 - Finished match_text function in utilities.py
+2024-10-22 12:27:07 - Started add_product function in utilities.py
+2024-10-22 12:27:07 - Finished add_product function in utilities.py
+2024-10-22 12:27:07 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:27:12 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:12 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:27:12 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:12 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:12 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\3.webp
+2024-10-22 12:27:13 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\3.webp
+2024-10-22 12:27:13 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:13 - Started main_function_utilities function in utilities.py
+2024-10-22 12:27:13 - Started load_file function in utilities.py
+2024-10-22 12:27:13 - Finished load_file function in utilities.py
+2024-10-22 12:27:13 - Started match_text function in utilities.py
+2024-10-22 12:27:13 - Finished match_text function in utilities.py
+2024-10-22 12:27:13 - Started add_product function in utilities.py
+2024-10-22 12:27:13 - Finished add_product function in utilities.py
+2024-10-22 12:27:13 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:27:18 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:18 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:27:18 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:18 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:18 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\30.webp
+2024-10-22 12:27:19 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\30.webp
+2024-10-22 12:27:19 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:19 - Started main_function_utilities function in utilities.py
+2024-10-22 12:27:19 - Started load_file function in utilities.py
+2024-10-22 12:27:19 - Finished load_file function in utilities.py
+2024-10-22 12:27:19 - Started match_text function in utilities.py
+2024-10-22 12:27:19 - Finished match_text function in utilities.py
+2024-10-22 12:27:19 - Started add_product function in utilities.py
+2024-10-22 12:27:19 - Finished add_product function in utilities.py
+2024-10-22 12:27:19 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:27:24 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:24 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:27:24 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:24 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:24 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\31.webp
+2024-10-22 12:27:25 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\31.webp
+2024-10-22 12:27:25 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:25 - Started main_function_utilities function in utilities.py
+2024-10-22 12:27:25 - Started load_file function in utilities.py
+2024-10-22 12:27:25 - Finished load_file function in utilities.py
+2024-10-22 12:27:25 - Started match_text function in utilities.py
+2024-10-22 12:27:25 - Finished match_text function in utilities.py
+2024-10-22 12:27:25 - Started add_product function in utilities.py
+2024-10-22 12:27:25 - Finished add_product function in utilities.py
+2024-10-22 12:27:25 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:27:30 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:30 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:27:30 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:30 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:30 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\32.webp
+2024-10-22 12:27:30 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\32.webp
+2024-10-22 12:27:30 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:30 - Started main_function_utilities function in utilities.py
+2024-10-22 12:27:30 - Started load_file function in utilities.py
+2024-10-22 12:27:30 - Finished load_file function in utilities.py
+2024-10-22 12:27:30 - Started match_text function in utilities.py
+2024-10-22 12:27:30 - Finished match_text function in utilities.py
+2024-10-22 12:27:30 - Started add_product function in utilities.py
+2024-10-22 12:27:30 - Finished add_product function in utilities.py
+2024-10-22 12:27:30 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:27:35 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:35 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:27:35 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:35 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:35 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\33.webp
+2024-10-22 12:27:36 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\33.webp
+2024-10-22 12:27:36 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:36 - Started main_function_utilities function in utilities.py
+2024-10-22 12:27:36 - Started load_file function in utilities.py
+2024-10-22 12:27:36 - Finished load_file function in utilities.py
+2024-10-22 12:27:36 - Started match_text function in utilities.py
+2024-10-22 12:27:36 - Finished match_text function in utilities.py
+2024-10-22 12:27:36 - Started add_product function in utilities.py
+2024-10-22 12:27:36 - Finished add_product function in utilities.py
+2024-10-22 12:27:36 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:27:41 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:41 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:27:41 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:41 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:41 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\34.webp
+2024-10-22 12:27:42 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\34.webp
+2024-10-22 12:27:42 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:42 - Started main_function_utilities function in utilities.py
+2024-10-22 12:27:42 - Started load_file function in utilities.py
+2024-10-22 12:27:42 - Finished load_file function in utilities.py
+2024-10-22 12:27:42 - Started match_text function in utilities.py
+2024-10-22 12:27:42 - Finished match_text function in utilities.py
+2024-10-22 12:27:42 - Started add_product function in utilities.py
+2024-10-22 12:27:42 - Finished add_product function in utilities.py
+2024-10-22 12:27:42 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:27:47 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:47 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:27:47 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:47 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:47 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\35.webp
+2024-10-22 12:27:47 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\35.webp
+2024-10-22 12:27:47 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:47 - Started main_function_utilities function in utilities.py
+2024-10-22 12:27:47 - Started load_file function in utilities.py
+2024-10-22 12:27:47 - Finished load_file function in utilities.py
+2024-10-22 12:27:47 - Started match_text function in utilities.py
+2024-10-22 12:27:47 - Finished match_text function in utilities.py
+2024-10-22 12:27:47 - Started add_product function in utilities.py
+2024-10-22 12:27:47 - Finished add_product function in utilities.py
+2024-10-22 12:27:47 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:27:52 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:52 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:27:52 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:52 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:52 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\36.webp
+2024-10-22 12:27:53 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\36.webp
+2024-10-22 12:27:53 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:53 - Started main_function_utilities function in utilities.py
+2024-10-22 12:27:53 - Started load_file function in utilities.py
+2024-10-22 12:27:53 - Finished load_file function in utilities.py
+2024-10-22 12:27:53 - Started match_text function in utilities.py
+2024-10-22 12:27:53 - Finished match_text function in utilities.py
+2024-10-22 12:27:53 - Started add_product function in utilities.py
+2024-10-22 12:27:53 - Finished add_product function in utilities.py
+2024-10-22 12:27:53 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:27:58 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:58 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:27:58 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:58 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:27:58 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\37.webp
+2024-10-22 12:27:59 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\37.webp
+2024-10-22 12:27:59 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:27:59 - Started main_function_utilities function in utilities.py
+2024-10-22 12:27:59 - Started load_file function in utilities.py
+2024-10-22 12:27:59 - Finished load_file function in utilities.py
+2024-10-22 12:27:59 - Started match_text function in utilities.py
+2024-10-22 12:27:59 - Finished match_text function in utilities.py
+2024-10-22 12:27:59 - Started add_product function in utilities.py
+2024-10-22 12:27:59 - Finished add_product function in utilities.py
+2024-10-22 12:27:59 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:28:04 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:04 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:28:04 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:04 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:04 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\38.webp
+2024-10-22 12:28:04 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\38.webp
+2024-10-22 12:28:04 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:04 - Started main_function_utilities function in utilities.py
+2024-10-22 12:28:04 - Started load_file function in utilities.py
+2024-10-22 12:28:04 - Finished load_file function in utilities.py
+2024-10-22 12:28:04 - Started match_text function in utilities.py
+2024-10-22 12:28:04 - Finished match_text function in utilities.py
+2024-10-22 12:28:04 - Started add_product function in utilities.py
+2024-10-22 12:28:05 - Finished add_product function in utilities.py
+2024-10-22 12:28:05 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:28:10 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:10 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:28:10 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:10 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:10 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\39.webp
+2024-10-22 12:28:10 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\39.webp
+2024-10-22 12:28:10 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:10 - Started main_function_utilities function in utilities.py
+2024-10-22 12:28:10 - Started load_file function in utilities.py
+2024-10-22 12:28:10 - Finished load_file function in utilities.py
+2024-10-22 12:28:10 - Started match_text function in utilities.py
+2024-10-22 12:28:10 - Finished match_text function in utilities.py
+2024-10-22 12:28:10 - Started add_product function in utilities.py
+2024-10-22 12:28:10 - Finished add_product function in utilities.py
+2024-10-22 12:28:10 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:28:15 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:15 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:28:15 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:15 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:15 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\4.webp
+2024-10-22 12:28:16 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\4.webp
+2024-10-22 12:28:16 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:16 - Started main_function_utilities function in utilities.py
+2024-10-22 12:28:16 - Started load_file function in utilities.py
+2024-10-22 12:28:16 - Finished load_file function in utilities.py
+2024-10-22 12:28:16 - Started match_text function in utilities.py
+2024-10-22 12:28:16 - Finished match_text function in utilities.py
+2024-10-22 12:28:16 - Started add_product function in utilities.py
+2024-10-22 12:28:16 - Finished add_product function in utilities.py
+2024-10-22 12:28:16 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:28:21 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:21 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:28:21 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:21 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:21 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\40.webp
+2024-10-22 12:28:22 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\40.webp
+2024-10-22 12:28:22 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:22 - Started main_function_utilities function in utilities.py
+2024-10-22 12:28:22 - Started load_file function in utilities.py
+2024-10-22 12:28:22 - Finished load_file function in utilities.py
+2024-10-22 12:28:22 - Started match_text function in utilities.py
+2024-10-22 12:28:22 - Finished match_text function in utilities.py
+2024-10-22 12:28:22 - Started add_product function in utilities.py
+2024-10-22 12:28:22 - Finished add_product function in utilities.py
+2024-10-22 12:28:22 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:28:27 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:27 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:28:27 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:27 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:27 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\41.webp
+2024-10-22 12:28:27 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\41.webp
+2024-10-22 12:28:27 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:27 - Started main_function_utilities function in utilities.py
+2024-10-22 12:28:27 - Started load_file function in utilities.py
+2024-10-22 12:28:27 - Finished load_file function in utilities.py
+2024-10-22 12:28:27 - Started match_text function in utilities.py
+2024-10-22 12:28:27 - Finished match_text function in utilities.py
+2024-10-22 12:28:27 - Started add_product function in utilities.py
+2024-10-22 12:28:27 - Finished add_product function in utilities.py
+2024-10-22 12:28:27 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:28:32 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:32 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:28:32 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:32 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:32 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\42.webp
+2024-10-22 12:28:33 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\42.webp
+2024-10-22 12:28:33 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:33 - Started main_function_utilities function in utilities.py
+2024-10-22 12:28:33 - Started load_file function in utilities.py
+2024-10-22 12:28:33 - Finished load_file function in utilities.py
+2024-10-22 12:28:33 - Started match_text function in utilities.py
+2024-10-22 12:28:33 - Finished match_text function in utilities.py
+2024-10-22 12:28:33 - Started add_product function in utilities.py
+2024-10-22 12:28:33 - Finished add_product function in utilities.py
+2024-10-22 12:28:33 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:28:38 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:38 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:28:38 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:38 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:38 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\43.webp
+2024-10-22 12:28:39 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\43.webp
+2024-10-22 12:28:39 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:39 - Started main_function_utilities function in utilities.py
+2024-10-22 12:28:39 - Started load_file function in utilities.py
+2024-10-22 12:28:39 - Finished load_file function in utilities.py
+2024-10-22 12:28:39 - Started match_text function in utilities.py
+2024-10-22 12:28:39 - Finished match_text function in utilities.py
+2024-10-22 12:28:39 - Started add_product function in utilities.py
+2024-10-22 12:28:39 - Finished add_product function in utilities.py
+2024-10-22 12:28:39 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:28:44 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:44 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:28:44 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:44 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:44 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\44.webp
+2024-10-22 12:28:44 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\44.webp
+2024-10-22 12:28:44 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:44 - Started main_function_utilities function in utilities.py
+2024-10-22 12:28:44 - Started load_file function in utilities.py
+2024-10-22 12:28:44 - Finished load_file function in utilities.py
+2024-10-22 12:28:44 - Started match_text function in utilities.py
+2024-10-22 12:28:44 - Finished match_text function in utilities.py
+2024-10-22 12:28:44 - Started add_product function in utilities.py
+2024-10-22 12:28:44 - Finished add_product function in utilities.py
+2024-10-22 12:28:44 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:28:49 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:49 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:28:49 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:49 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:49 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\45.webp
+2024-10-22 12:28:50 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\45.webp
+2024-10-22 12:28:50 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:50 - Started main_function_utilities function in utilities.py
+2024-10-22 12:28:50 - Started load_file function in utilities.py
+2024-10-22 12:28:50 - Finished load_file function in utilities.py
+2024-10-22 12:28:50 - Started match_text function in utilities.py
+2024-10-22 12:28:50 - Finished match_text function in utilities.py
+2024-10-22 12:28:50 - Started add_product function in utilities.py
+2024-10-22 12:28:50 - Finished add_product function in utilities.py
+2024-10-22 12:28:50 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:28:55 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:55 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:28:55 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:55 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:28:55 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\46.webp
+2024-10-22 12:28:56 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\46.webp
+2024-10-22 12:28:56 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:28:56 - Started main_function_utilities function in utilities.py
+2024-10-22 12:28:56 - Started load_file function in utilities.py
+2024-10-22 12:28:56 - Finished load_file function in utilities.py
+2024-10-22 12:28:56 - Started match_text function in utilities.py
+2024-10-22 12:28:56 - Finished match_text function in utilities.py
+2024-10-22 12:28:56 - Started add_product function in utilities.py
+2024-10-22 12:28:56 - Finished add_product function in utilities.py
+2024-10-22 12:28:56 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:29:01 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:01 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:29:01 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:01 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:01 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\47.webp
+2024-10-22 12:29:02 - An error has occurred using prompt_usage function in imageRecognitionGemini.py. More details: 503 The model is overloaded. Please try again later.
+2024-10-22 12:29:02 - An error has occurred using main_function_imageRecognitionGemini function in imageRecognitionGemini.py. More details: finalResponse is None, please check the logger.
+2024-10-22 12:29:02 - Started main_function_utilities function in utilities.py
+2024-10-22 12:29:02 - Started load_file function in utilities.py
+2024-10-22 12:29:02 - Finished load_file function in utilities.py
+2024-10-22 12:29:02 - Started match_text function in utilities.py
+2024-10-22 12:29:02 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:29:02 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:29:07 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:07 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:29:07 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:07 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:07 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\48.webp
+2024-10-22 12:29:08 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\48.webp
+2024-10-22 12:29:08 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:08 - Started main_function_utilities function in utilities.py
+2024-10-22 12:29:08 - Started load_file function in utilities.py
+2024-10-22 12:29:08 - Finished load_file function in utilities.py
+2024-10-22 12:29:08 - Started match_text function in utilities.py
+2024-10-22 12:29:08 - Finished match_text function in utilities.py
+2024-10-22 12:29:08 - Started add_product function in utilities.py
+2024-10-22 12:29:08 - Finished add_product function in utilities.py
+2024-10-22 12:29:08 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:29:13 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:13 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:29:13 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:13 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:13 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\49.webp
+2024-10-22 12:29:14 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\49.webp
+2024-10-22 12:29:14 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:14 - Started main_function_utilities function in utilities.py
+2024-10-22 12:29:14 - Started load_file function in utilities.py
+2024-10-22 12:29:14 - Finished load_file function in utilities.py
+2024-10-22 12:29:14 - Started match_text function in utilities.py
+2024-10-22 12:29:14 - Finished match_text function in utilities.py
+2024-10-22 12:29:14 - Started add_product function in utilities.py
+2024-10-22 12:29:14 - Finished add_product function in utilities.py
+2024-10-22 12:29:14 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:29:19 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:19 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:29:19 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:19 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:19 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\5.webp
+2024-10-22 12:29:20 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\5.webp
+2024-10-22 12:29:20 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:20 - Started main_function_utilities function in utilities.py
+2024-10-22 12:29:20 - Started load_file function in utilities.py
+2024-10-22 12:29:20 - Finished load_file function in utilities.py
+2024-10-22 12:29:20 - Started match_text function in utilities.py
+2024-10-22 12:29:20 - Finished match_text function in utilities.py
+2024-10-22 12:29:20 - Started add_product function in utilities.py
+2024-10-22 12:29:20 - Finished add_product function in utilities.py
+2024-10-22 12:29:20 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:29:25 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:25 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:29:25 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:25 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:25 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\6.webp
+2024-10-22 12:29:26 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\6.webp
+2024-10-22 12:29:26 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:26 - Started main_function_utilities function in utilities.py
+2024-10-22 12:29:26 - Started load_file function in utilities.py
+2024-10-22 12:29:26 - Finished load_file function in utilities.py
+2024-10-22 12:29:26 - Started match_text function in utilities.py
+2024-10-22 12:29:26 - Finished match_text function in utilities.py
+2024-10-22 12:29:26 - Started add_product function in utilities.py
+2024-10-22 12:29:26 - Finished add_product function in utilities.py
+2024-10-22 12:29:26 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:29:31 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:31 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:29:31 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:31 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:31 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\7.webp
+2024-10-22 12:29:33 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\7.webp
+2024-10-22 12:29:33 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:33 - Started main_function_utilities function in utilities.py
+2024-10-22 12:29:33 - Started load_file function in utilities.py
+2024-10-22 12:29:33 - Finished load_file function in utilities.py
+2024-10-22 12:29:33 - Started match_text function in utilities.py
+2024-10-22 12:29:33 - Finished match_text function in utilities.py
+2024-10-22 12:29:33 - Started add_product function in utilities.py
+2024-10-22 12:29:33 - Finished add_product function in utilities.py
+2024-10-22 12:29:33 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:29:38 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:29:38 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:29:38 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:38 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:29:38 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\8.webp
+2024-10-22 12:32:46 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\8.webp
+2024-10-22 12:32:46 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:32:46 - Started main_function_utilities function in utilities.py
+2024-10-22 12:32:46 - Started load_file function in utilities.py
+2024-10-22 12:32:46 - Finished load_file function in utilities.py
+2024-10-22 12:32:46 - Started match_text function in utilities.py
+2024-10-22 12:32:46 - An error has occurred using match_text function in utilities.py. More details: The string format is incorrect.
+2024-10-22 12:32:46 - An error has occurred using load_file function in utilities.py. More details: cannot unpack non-iterable NoneType object
+2024-10-22 12:32:51 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:32:51 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:32:51 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:32:51 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:32:51 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: img\9.webp
+2024-10-22 12:32:52 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: img\9.webp
+2024-10-22 12:32:52 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:32:52 - Started main_function_utilities function in utilities.py
+2024-10-22 12:32:52 - Started load_file function in utilities.py
+2024-10-22 12:32:52 - Finished load_file function in utilities.py
+2024-10-22 12:32:52 - Started match_text function in utilities.py
+2024-10-22 12:32:52 - Finished match_text function in utilities.py
+2024-10-22 12:32:52 - Started add_product function in utilities.py
+2024-10-22 12:32:52 - Finished add_product function in utilities.py
+2024-10-22 12:32:52 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:32:52 - Finished main function in main.py
+2024-10-22 12:48:21 - Started main function in main.py
+2024-10-22 12:48:26 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:48:26 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:48:26 - Finished gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:48:26 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:48:26 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:48:26 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: src/img\1.png
+2024-10-22 12:48:28 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: src/img\1.png
+2024-10-22 12:48:28 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:48:28 - Started main_function_utilities function in utilities.py
+2024-10-22 12:48:28 - Started load_file function in utilities.py
+2024-10-22 12:48:28 - Finished load_file function in utilities.py
+2024-10-22 12:48:28 - Started match_text function in utilities.py
+2024-10-22 12:48:28 - Finished match_text function in utilities.py
+2024-10-22 12:48:28 - Started add_product function in utilities.py
+2024-10-22 12:48:28 - Finished add_product function in utilities.py
+2024-10-22 12:48:28 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:48:33 - Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:48:33 - Started gemini_usage function in imageRecognitionGemini.py
+2024-10-22 12:48:33 - Started image_load function in imageRecognitionGemini.py
+2024-10-22 12:48:34 - Finished image_load function in imageRecognitionGemini.py
+2024-10-22 12:48:34 - Started prompt_usage function in imageRecognitionGemini.py. Detailes: src/img\imagen.png
+2024-10-22 12:48:37 - Finished prompt_usage function in imageRecognitionGemini.py. Detailes: src/img\imagen.png
+2024-10-22 12:48:37 - Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py
+2024-10-22 12:48:37 - Started main_function_utilities function in utilities.py
+2024-10-22 12:48:37 - Started load_file function in utilities.py
+2024-10-22 12:48:37 - Finished load_file function in utilities.py
+2024-10-22 12:48:37 - Started match_text function in utilities.py
+2024-10-22 12:48:37 - Finished match_text function in utilities.py
+2024-10-22 12:48:37 - Started add_product function in utilities.py
+2024-10-22 12:48:37 - Finished add_product function in utilities.py
+2024-10-22 12:48:37 - Finished main_function_utilities function in utilities.py
+2024-10-22 12:48:37 - Finished main function in main.py

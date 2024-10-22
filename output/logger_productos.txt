@@ -1,0 +1,49 @@
+img\1.webp:	Null - NaN - Null - Null --- 2024-10-22 12:25:01
+img\10.webp:	Lubriderm - 25% - 18 de octubre de 2024 - 24 de octubre de 2024 --- 2024-10-22 12:25:07
+img\11.webp:	Rexona Clinical - 35% - 18 de octubre de 2024 - 24 de octubre de 2024 --- 2024-10-22 12:25:13
+img\12.webp:	Sevedol - NaN - Null - Null --- 2024-10-22 12:25:20
+img\13.webp:	Nivea - 35% - 11 de Octubre de 2024 - 24 de Octubre de 2024 --- 2024-10-22 12:25:25
+img\14.webp:	Null - NaN - Null - Null --- 2024-10-22 12:25:32
+img\15.webp:	Allegra - 20% - 1 de octubre de 2024 - 31 de octubre de 2024 --- 2024-10-22 12:25:38
+img\16.webp:	Null - NaN - Null - Null --- 2024-10-22 12:25:44
+img\17.webp:	Null - NaN - Null - Null --- 2024-10-22 12:25:50
+img\18.webp:	Maybelline - 20% - 1 de octubre de 2024 - 30 de noviembre de 2024 --- 2024-10-22 12:25:56
+img\19.webp:	Eucerin - 15% - 01 de septiembre de 2024 - 31 de diciembre de 2024 --- 2024-10-22 12:26:02
+img\2.webp:	Null - NaN - Null - Null --- 2024-10-22 12:26:08
+img\20.webp:	CeraVe - 15% - 01 de octubre de 2024 - 31 de octubre de 2024 --- 2024-10-22 12:26:14
+img\21.webp:	Dove - 35% - 11 de octubre de 2024 - 24 de octubre de 2024 --- 2024-10-22 12:26:20
+img\22.webp:	Avène - 30% - 1 de septiembre de 2024 - 31 de diciembre de 2024 --- 2024-10-22 12:26:26
+img\23.webp:	Bioderma - 25% - 01 de septiembre de 2024 - 23 de octubre de 2024 --- 2024-10-22 12:26:32
+img\24.webp:	Diversa - 15% - 1 de octubre de 2024 - 31 de octubre de 2024 --- 2024-10-22 12:26:38
+img\25.webp:	Nivea - 20% - 01 de septiembre de 2024 - 31 de diciembre de 2024 --- 2024-10-22 12:26:43
+img\26.webp:	Vogue - 20% - 1 de septiembre de 2024 - 30 de noviembre de 2024 --- 2024-10-22 12:26:50
+img\27.webp:	Toallitas Húmedas - 20% - 01 de septiembre de 2024 - 30 de noviembre de 2024 --- 2024-10-22 12:26:55
+img\28.webp:	Alka-Seltzer - 30% - 1 de octubre de 2024 - 31 de octubre de 2024 --- 2024-10-22 12:27:02
+img\29.webp:	Null - NaN - Null - Null --- 2024-10-22 12:27:07
+img\3.webp:	Null - NaN - Null - Null --- 2024-10-22 12:27:13
+img\30.webp:	Null - NaN - Null - Null --- 2024-10-22 12:27:19
+img\31.webp:	Null - NaN - Null - Null --- 2024-10-22 12:27:25
+img\32.webp:	Null - NaN - Null - Null --- 2024-10-22 12:27:30
+img\33.webp:	Optive Fusion - NaN - Null - Null --- 2024-10-22 12:27:36
+img\34.webp:	Null - NaN - Null - Null --- 2024-10-22 12:27:42
+img\35.webp:	Listerine - NaN - Null - Null --- 2024-10-22 12:27:47
+img\36.webp:	Null - NaN - Null - Null --- 2024-10-22 12:27:53
+img\37.webp:	Null - NaN - Null - Null --- 2024-10-22 12:27:59
+img\38.webp:	Null - NaN - Null - Null --- 2024-10-22 12:28:05
+img\39.webp:	Null - NaN - Null - Null --- 2024-10-22 12:28:10
+img\4.webp:	Snacks y Bebidas - 20% - 11 de octubre de 2024 - 24 de octubre de 2024 --- 2024-10-22 12:28:16
+img\40.webp:	Enterogermina - NaN - Null - Null --- 2024-10-22 12:28:22
+img\41.webp:	Null - NaN - Null - Null --- 2024-10-22 12:28:27
+img\42.webp:	Null - NaN - Null - Null --- 2024-10-22 12:28:33
+img\43.webp:	Null - NaN - Null - Null --- 2024-10-22 12:28:39
+img\44.webp:	Null - NaN - Null - Null --- 2024-10-22 12:28:44
+img\45.webp:	Savvy - 10% - 01 de septiembre de 2024 - 30 de noviembre de 2024 --- 2024-10-22 12:28:50
+img\46.webp:	Null - NaN - Null - Null --- 2024-10-22 12:28:56
+img\48.webp:	Bronquisol - NaN - Null - Null --- 2024-10-22 12:29:08
+img\49.webp:	Null - NaN - Null - Null --- 2024-10-22 12:29:14
+img\5.webp:	Eucerin - 30% - 19 de septiembre de 2024 - 24 de octubre de 2024 --- 2024-10-22 12:29:20
+img\6.webp:	Null - NaN - Null - Null --- 2024-10-22 12:29:26
+img\7.webp:	Null - NaN - Null - Null --- 2024-10-22 12:29:33
+img\9.webp:	Isdin Foto Ultra 100 - 25% - 1 de octubre de 2024 - 31 de octubre de 2024 --- 2024-10-22 12:32:52
+src/img\1.png:	Cuidado del bebé - 20% - 11 de octubre de 2024 - 24 de octubre de 2024 --- 2024-10-22 12:48:28
+src/img\imagen.png:	Null - NaN - Null - Null --- 2024-10-22 12:48:37
