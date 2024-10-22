@@ -9,8 +9,8 @@ def main_function_utilities(filePath, geminiResponse, imgPath):
         log_message('Started main_function_utilities function in utilities.py')
         df = load_file(filePath)
         product, discount, startDate, endDate = match_text(geminiResponse)
-        add_product(df, product, discount, startDate, endDate, filePath)
-        log_message('Finished main_function_utilities function in utilities.py')
+        add_product(df, product, discount, startDate, endDate, filePath, imgPath)
+        log_message('Finished main_function_utilities function in utilities.py\n\n\n\n\n\n\n\n\n\n\n\n')
         log_products(product, discount, startDate, endDate, imgPath)
     except Exception as e:
         log_message(f"An error has occurred using load_file function in utilities.py. More details: {e}")
@@ -21,7 +21,7 @@ def load_file(filePath):
         if os.path.exists(filePath):
             df = pd.read_excel(filePath)
         else:
-            df = pd.DataFrame(columns=['Producto', 'Descuento', 'Fecha Inicio', 'Fecha Fin'])
+            df = pd.DataFrame(columns=['Ruta', 'Producto', 'Descuento', 'Fecha Inicio', 'Fecha Fin'])
             df.to_excel(filePath, index=False)
         log_message('Finished load_file function in utilities.py')
         return df
@@ -31,7 +31,7 @@ def load_file(filePath):
 
 def match_text(geminiResponse):
     try:
-        log_message('Started match_text function in utilities.py')
+        log_message(f'Started match_text function in utilities.py with {geminiResponse}')
         pattern = r'^(.*?)[|](.*?)[|] Inicio: (.*?)[.]+ Fin: (.*?)\.$'
         match = re.match(pattern, geminiResponse.strip())
         if match:
@@ -47,10 +47,11 @@ def match_text(geminiResponse):
         log_message(f"An error has occurred using match_text function in utilities.py. More details: {e}")
         return None
 
-def add_product(df, product, discount, startDate, endDate, filePath):
+def add_product(df, product, discount, startDate, endDate, filePath, imgPath):
     try:
         log_message('Started add_product function in utilities.py')
         newProduct = {
+            'Ruta': imgPath,
             'Producto': product if product != 'Null' else None,
             'Descuento': discount if discount != 'Null' else np.nan,
             'Fecha Inicio': startDate if startDate != 'Null' else None,

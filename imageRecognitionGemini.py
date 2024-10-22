@@ -3,14 +3,12 @@ from utils import log_message
 import os
 import PIL.Image
 
-model = None
-
 def main_function_imageRecognitionGemini(image_path):
     try:
         log_message('Started main_function_imageRecognitionGemini function in imageRecognitionGemini.py')
-        gemini_usage()
+        model = gemini_usage()
         img = image_load(image_path)
-        finalResponse = prompt_usage(img, image_path)
+        finalResponse = prompt_usage(img, image_path, model)
         if finalResponse is None or not finalResponse:
             raise Exception('finalResponse is None, please check the logger.')
         log_message('Finished main_function_imageRecognitionGemini function in imageRecognitionGemini.py')
@@ -23,9 +21,6 @@ def gemini_usage():
     try:
         log_message('Started gemini_usage function in imageRecognitionGemini.py')
         GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
-        global model
-        if model is not None:
-            return model
         genai.configure(api_key = GOOGLE_API_KEY)
         model = genai.GenerativeModel('gemini-1.5-flash')
         log_message('Finished gemini_usage function in imageRecognitionGemini.py')
@@ -44,18 +39,21 @@ def image_load(imagePath):
         log_message(f"An error has occurred using image_load function in imageRecognitionGemini.py. More details: {e}")
         return None
 
-def prompt_usage(img, image_path):
+def prompt_usage(img, image_path, model):
     try:
         log_message(f'Started prompt_usage function in imageRecognitionGemini.py. Detailes: {image_path}')
         prompt_str = f"""
-                Imagina que eres un analista de marketing en colombia en droguerías y establecimientos parecidos en Colombia. Se te ha hecho envio de un anuncio en el cual deberás encontrar los siguientes parámetros:
-                - Producto ofrecido (si es más de 1, la categoría).
+                Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+                - Categoría de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
                 - Fechas de la oferta.
-                - Porcentaje de descuento ofrecido.
-                La respuesta deberá seguir el siguiente formato:
-                Colgate | 20% | Inicio: 24 de mayo de 2024. Fin: 29 de mayo de 2024.
-                Si la imagen no expone explicitamente un anuncio de oferta de descuento o falta información, responde de la siguiente forma:
-                Null | NaN | Inicio: Null. Fin: Null.
+                - Porcentaje de descuento ofrecido (si hay más de un porcentaje, enuméralos).
+                - Si no es un anuncio de descuento, responde con: "Null | NaN | Inicio: Null. Fin: Null".
+
+                El formato de respuesta deberá ser el siguiente:
+                [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+                Ejemplo:
+                Medicamentos para la gripe | 20%, 30% | Inicio: 17 de octubre de 2024. Fin: 24 de octubre de 2024.
             """
         response = model.generate_content([prompt_str, img], stream=True)
         response.resolve()

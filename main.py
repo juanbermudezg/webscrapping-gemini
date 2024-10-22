@@ -16,12 +16,12 @@ def main():
 """
 
 def main():
-    log_message('Started main function in main.py')
-    directory = 'src/img'
+    log_message('\n\n\n\nStarted main function in main.py')
+    directory = 'img'
     file_path = 'src/final.xlsx'
     responses = []
     for filename in os.listdir(directory):
-        time.sleep(5)
+        time.sleep(7)
         if filename.endswith(('.jpg', '.jpeg', '.png', '.webp')):
             image_path = os.path.join(directory, filename)
             response = main_function_imageRecognitionGemini(image_path)
