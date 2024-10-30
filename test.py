@@ -1,14 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
 
-# URL de la página que deseas scrapear
-url = "https://www.farmatodo.com.co/"
+link_urls=['https://www.farmatodo.com.co/', 'https://www.cruzverde.com.co/', 'https://www.larebajavirtual.com/', 'https://www.locatelcolombia.com/', 'https://www.droguerialaeconomia.com/']
 
-# Hacer la solicitud HTTP para obtener el contenido de la página
+url = "https://www.cruzverde.com.co"
+
 response = requests.get(url)
 web_content = response.text
 
-# Parsear el contenido HTML con BeautifulSoup
 soup = BeautifulSoup(web_content, 'html.parser')
 print(soup)
 # Encontrar la sección específica

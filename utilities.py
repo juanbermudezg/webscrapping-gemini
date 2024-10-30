@@ -10,7 +10,7 @@ def main_function_utilities(filePath, geminiResponse, imgPath):
         df = load_file(filePath)
         product, discount, startDate, endDate = match_text(geminiResponse)
         add_product(df, product, discount, startDate, endDate, filePath, imgPath)
-        log_message('Finished main_function_utilities function in utilities.py\n\n\n\n\n\n\n\n\n\n\n\n')
+        log_message('Finished main_function_utilities function in utilities.py')
         log_products(product, discount, startDate, endDate, imgPath)
     except Exception as e:
         log_message(f"An error has occurred using load_file function in utilities.py. More details: {e}")

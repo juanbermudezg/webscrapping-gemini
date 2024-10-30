@@ -268,3 +268,97 @@ img\45.webp:	Savvy - 10% - 01 de septiembre de 2024 - 30 de noviembre de 2024 --
 img\46.webp:	Null - NaN - Null - Null --- 2024-10-22 15:21:27
 img\48.webp:	Null - NaN - Null - Null --- 2024-10-22 15:21:43
 img\49.webp:	Null - NaN - Null - Null --- 2024-10-22 15:21:52
+img\01.webp:	Productos de belleza - 20% - 11/10/2024 - 24/10/2024 --- 2024-10-23 11:02:29
+img\01.webp:	Productos de belleza - 20% - 11/10/2024 - 24/10/2024 --- 2024-10-23 11:03:09
+img\03.webp:	Productos para bebés - 20% - 11/10/2024 - 24/10/2024 --- 2024-10-23 11:03:18
+img\04.webp:	Snacks y Bebidas - 20% - 11/10/2024 - 24/10/2024 --- 2024-10-23 11:03:27
+img\05.webp:	Protectores Solares Eucerin - 30% - 19/09/2024 - 24/10/2024 --- 2024-10-23 11:03:36
+img\06.webp:	Medicamentos para la gripe - 20% - 17/10/2024 - 24/10/2024 --- 2024-10-23 11:03:45
+img\07.webp:	Maybelline - Null - Null - Null --- 2024-10-23 11:03:54
+img\08.webp:	Dermocosmética - 25% - 01/10/2024 - 31/10/2024 --- 2024-10-23 11:04:02
+img\09.webp:	Protectores Solares - 25% - 01/10/2024 - 31/10/2024 --- 2024-10-23 11:04:11
+img\10.webp:	Cremas corporales Lubriderm - 20% - 18/10/2024 - 24/10/2024 --- 2024-10-23 11:04:20
+img\11.webp:	Desodorantes Rexona Clinical - 30% - 18/10/2024 - 24/10/2024 --- 2024-10-23 11:04:28
+img\12.webp:	Medicamentos para el dolor de cabeza - Null - Null - Null --- 2024-10-23 11:04:37
+img\13.webp:	Productos de limpieza Nivea - 30% - 11/10/2024 - 24/10/2024 --- 2024-10-23 11:04:45
+img\14.webp:	Null - NaN - Null - Null --- 2024-10-23 11:04:55
+img\15.webp:	Medicamentos para la alergia - 20% - 01/10/2024 - 31/10/2024 --- 2024-10-23 11:05:03
+img\16.webp:	Membresía Prime - Null - Null - Null --- 2024-10-23 11:05:12
+img\17.webp:	Helado - Null - Null - Null --- 2024-10-23 11:05:20
+img\18.webp:	Cosméticos Maybelline - 20% - 1 de octubre - 30 de noviembre --- 2024-10-23 11:05:29
+img\20.webp:	Productos para el cuidado de la piel CeraVe - 15% - 01/10/2024 - 31/10/2024 --- 2024-10-23 11:05:46
+img\22.webp:	Productos de cuidado de la piel de la marca Avene - 30% - 01/09/2024 - 31/12/2024 --- 2024-10-23 11:06:04
+img\23.webp:	Productos Bioderma - 25% - 01/09/2024 - 23/10/2024 --- 2024-10-23 11:06:12
+img\24.webp:	Bebidas instantáneas: Diversa - 15% - 01/10/2024 - 31/10/2024 --- 2024-10-23 11:06:21
+img\25.webp:	Productos Nivea - 20% - 01/09/2024 - 31/12/2024 --- 2024-10-23 11:06:30
+img\26.webp:	Cosméticos Vogue - 20% - 01/09/2024 - 30/11/2024 --- 2024-10-23 11:06:38
+img\27.webp:	Toallitas húmedas - 20% - 01/09/2024 - 30/11/2024 --- 2024-10-23 11:06:47
+img\28.webp:	Medicamentos para la acidez estomacal - 25% - 01/10/2024 - 31/10/2024 --- 2024-10-23 11:06:58
+img\29.webp:	Alimentos para mascotas - 20% - 01/10/2024 - 31/12/2024 --- 2024-10-23 11:07:07
+img\30.webp:	Pañales - Null - Null - Null --- 2024-10-23 11:07:16
+img\32.webp:	Base de maquillaje - Null - Null - Null --- 2024-10-23 11:07:33
+img\33.webp:	Gotas para los ojos - Null | NaN - Null - Null --- 2024-10-23 11:07:51
+img\34.webp:	Protección solar - Null - Null - Null --- 2024-10-23 11:07:59
+img\35.webp:	Enjuague bucal - Null | NaN - Null - Null --- 2024-10-23 11:08:08
+img\37.webp:	Cremas y Serum anti-manchas L'Oreal - 77% - Null - Null --- 2024-10-23 11:08:25
+img\38.webp:	Polvo compacto - Null - Null - Null --- 2024-10-23 11:08:44
+img\39.webp:	Cepillos de dientes - Null - Null - Null --- 2024-10-23 11:08:52
+img\40.webp:	Medicamentos para la flora intestinal - Null - Null - Null --- 2024-10-23 11:09:00
+img\41.webp:	Cremas Nivea Cellular Luminous 630 - Null | NaN - Null - Null --- 2024-10-23 11:09:09
+img\42.webp:	Cremas faciales - Null - Null - Null --- 2024-10-23 11:09:18
+img\43.webp:	Perfume - Null - Null - Null --- 2024-10-23 11:09:28
+img\44.webp:	Perfume - Null - Null - Null --- 2024-10-23 11:09:38
+img\45.webp:	Proteína en polvo - 10% - 01/09/2024 - 30/11/2024 --- 2024-10-23 11:09:46
+img\46.webp:	Productos para el cuidado de la piel Acid Mantle - Null - Null - Null --- 2024-10-23 11:09:55
+img\47.webp:	Cepillos de dientes Curaprox - 20% - 01/10/2024 - 31/10/2024 --- 2024-10-23 11:10:04
+img\48.webp:	Medicamentos para la tos - Null - Null - Null --- 2024-10-23 11:10:13
+img\49.webp:	Protectores Solares Eucerin - Null - Null - Null --- 2024-10-23 11:10:24
+img/01.webp:	Productos de belleza - 20% - 11/10/2024 - 24/10/2024 --- 2024-10-23 16:39:43
+img\01.webp:	Productos de belleza - 20% - 11/10/2024 - 24/10/2024 --- 2024-10-23 16:41:59
+img\03.webp:	Cuidado del bebé - 20% - 11/10/2024 - 24/10/2024 --- 2024-10-23 16:42:09
+img\04.webp:	Snacks y bebidas - 20% - 11/10/2024 - 24/10/2024 --- 2024-10-23 16:42:20
+img\05.webp:	Protector solar - 30% - 19/09/2024 - 24/10/2024 --- 2024-10-23 16:42:29
+img\06.webp:	Medicamentos para la gripe - 20% - 17/10/2024 - 24/10/2024 --- 2024-10-23 16:42:40
+img\07.webp:	Null - NaN - Null - Null --- 2024-10-23 16:42:54
+img\08.webp:	Dermosmética - 25% - 1/10/2024 - 31/10/2024 --- 2024-10-23 16:43:04
+img\09.webp:	Protector solar Isdin - 25% - 1/10/2024 - 31/10/2024 --- 2024-10-23 16:43:16
+img\10.webp:	Cremas hidratantes - 20% - 18/10/2024 - 24/10/2024 --- 2024-10-23 16:43:26
+img\11.webp:	Desodorantes Rexona - 30% - 18/10/2024 - 24/10/2024 --- 2024-10-23 16:43:36
+img\12.webp:	Null - NaN - Null - Null --- 2024-10-23 16:43:46
+img\13.webp:	Productos de limpieza NIVEA - 30% - 11/10/2024 - 24/10/2024 --- 2024-10-23 16:43:57
+img\14.webp:	Null - NaN - Null - Null --- 2024-10-23 16:44:08
+img\15.webp:	Medicamentos para la rinitis alérgica - 20% - 1/10/2024 - 31/10/2024 --- 2024-10-23 16:44:19
+img\16.webp:	Null - NaN - Null - Null --- 2024-10-23 16:44:29
+img\17.webp:	Null - NaN - Null - Null --- 2024-10-23 16:44:39
+img\18.webp:	Maquillaje Maybelline - 20% - 1/10/2023 - 30/11/2023 --- 2024-10-23 16:44:49
+img\19.webp:	Cuidado de la piel - 15% - 01/09/2024 - 31/12/2024 --- 2024-10-23 16:45:01
+img\20.webp:	Cuidado de la piel - 15% - 01/10/2024 - 31/10/2024 --- 2024-10-23 16:45:11
+img\21.webp:	Cuidado personal - 30% - 11/10/2024 - 24/10/2024 --- 2024-10-23 16:45:20
+img\22.webp:	Cuidado de la piel - 30% - 1/09/2024 - 31/12/2024 --- 2024-10-23 16:45:31
+img\23.webp:	Cuidado de la piel - 25% - 01/09/2024 - 23/10/2024 --- 2024-10-23 16:45:41
+img\24.webp:	Bebidas instantáneas de colágeno - 15% - 1/10/2024 - 31/10/2024 --- 2024-10-23 16:45:51
+img\25.webp:	Cuidado personal - 20% - 01/09/2024 - 31/12/2024 --- 2024-10-23 16:46:04
+img\26.webp:	Maquillaje - 20% - 1/09/2024 - 30/11/2024 --- 2024-10-23 16:46:15
+img\27.webp:	Toallitas Húmedas - 20% - 01/09/2024 - 30/11/2024 --- 2024-10-23 16:46:25
+img\28.webp:	Antiácidos - 25% - 1/10/2024 - 31/10/2024 --- 2024-10-23 16:46:35
+img\29.webp:	Mascotas - 20% - 01/10/2024 - 31/12/2024 --- 2024-10-23 16:46:44
+img\30.webp:	Null - NaN - Null - Null --- 2024-10-23 16:46:54
+img\31.webp:	Null - NaN - Null - Null --- 2024-10-23 16:47:05
+img\32.webp:	Null - NaN - Null - Null --- 2024-10-23 16:47:15
+img\33.webp:	Null - NaN - Null - Null --- 2024-10-23 16:47:26
+img\34.webp:	Null - NaN - Null - Null --- 2024-10-23 16:47:36
+img\35.webp:	Null - NaN - Null - Null --- 2024-10-23 16:47:47
+img\36.webp:	Null - NaN - Null - Null --- 2024-10-23 16:47:58
+img\37.webp:	Null - NaN - Null - Null --- 2024-10-23 16:48:08
+img\38.webp:	Null - NaN - Null - Null --- 2024-10-23 16:48:19
+img\39.webp:	Null - NaN - Null - Null --- 2024-10-23 16:48:29
+img\40.webp:	Null - NaN - Null - Null --- 2024-10-23 16:48:39
+img\41.webp:	Cuidado de la piel - Null - 14/10/2024 - 15/12/2024 --- 2024-10-23 16:48:50
+img\42.webp:	Null - NaN - Null - Null --- 2024-10-23 16:48:59
+img\43.webp:	Null - NaN - Null - Null --- 2024-10-23 16:49:10
+img\44.webp:	Null - NaN - Null - Null --- 2024-10-23 16:49:21
+img\45.webp:	Suplementos alimenticios - 10% - 01/09/2024 - 30/11/2024 --- 2024-10-23 16:49:32
+img\46.webp:	Null - NaN - Null - Null --- 2024-10-23 16:49:42
+img\47.webp:	Cepillos dentales - 20% - 01/10/2024 - 31/10/2024 --- 2024-10-23 16:49:54
+img\48.webp:	Null - NaN - Null - Null --- 2024-10-23 16:50:03
+img\49.webp:	Null - NaN - Null - Null --- 2024-10-23 16:50:14
