@@ -1,0 +1,1483 @@
+"id","prompt","image_path","tokens_used","cost_usd","created_at"
+1,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\01.png",1357,"0.0814","2024-11-05 11:36:25.569578"
+2,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\02.png",1358,"0.0815","2024-11-05 11:36:36.220841"
+3,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\03.png",1358,"0.0815","2024-11-05 11:36:44.296769"
+4,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\04.png",1343,"0.0806","2024-11-05 11:36:51.549862"
+5,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\05.png",1356,"0.0814","2024-11-05 11:36:58.737685"
+6,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\06.png",1356,"0.0814","2024-11-05 11:37:07.646168"
+7,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\07.png",1357,"0.0814","2024-11-05 11:37:16.724192"
+8,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\08.png",1358,"0.0815","2024-11-05 11:37:25.366523"
+9,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\09.png",1358,"0.0815","2024-11-05 11:37:33.857174"
+10,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\10.png",1358,"0.0815","2024-11-05 11:37:43.758648"
+11,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\11.png",1345,"0.0807","2024-11-05 11:37:51.660337"
+12,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\12.png",1359,"0.0815","2024-11-05 11:38:00.808453"
+13,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\13.png",1346,"0.0808","2024-11-05 11:38:08.759216"
+14,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\14.png",1345,"0.0807","2024-11-05 11:38:16.386578"
+15,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\15.png",1344,"0.0806","2024-11-05 11:38:23.784616"
+16,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\16.png",1341,"0.0805","2024-11-05 11:38:30.561736"
+17,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\17.png",1341,"0.0805","2024-11-05 11:38:38.133439"
+18,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\18.png",1360,"0.0816","2024-11-05 11:38:45.439374"
+19,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Cruz Verde\19.png",1358,"0.0815","2024-11-05 11:38:53.605497"
+20,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\01.png",1357,"0.0814","2024-11-05 11:39:01.234186"
+21,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\02.png",1356,"0.0814","2024-11-05 11:39:08.926389"
+22,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\03.png",1359,"0.0815","2024-11-05 11:39:18.546636"
+23,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\04.png",1357,"0.0814","2024-11-05 11:39:26.64062"
+24,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\05.png",1355,"0.0813","2024-11-05 11:39:34.653583"
+25,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\06.png",1358,"0.0815","2024-11-05 11:39:47.537492"
+26,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\07.png",1359,"0.0815","2024-11-05 11:39:55.800721"
+27,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\08.png",1341,"0.0805","2024-11-05 11:40:03.239688"
+28,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\09.png",1360,"0.0816","2024-11-05 11:40:11.246586"
+29,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\10.png",1358,"0.0815","2024-11-05 11:40:18.753638"
+30,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\11.png",1358,"0.0815","2024-11-05 11:40:25.996551"
+31,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\12.png",1341,"0.0805","2024-11-05 11:40:33.827353"
+32,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\13.png",1356,"0.0814","2024-11-05 11:40:41.530903"
+33,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\14.png",1357,"0.0814","2024-11-05 11:40:49.109717"
+34,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\15.png",1358,"0.0815","2024-11-05 11:40:56.95643"
+35,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\16.png",1361,"0.0817","2024-11-05 11:41:05.092503"
+36,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\17.png",1359,"0.0815","2024-11-05 11:41:12.778588"
+37,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\18.png",1341,"0.0805","2024-11-05 11:41:20.739759"
+38,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\19.png",1341,"0.0805","2024-11-05 11:41:27.871006"
+39,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\20.png",1362,"0.0817","2024-11-05 11:41:35.565348"
+40,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\21.png",1341,"0.0805","2024-11-05 11:41:42.759638"
+41,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\22.png",1358,"0.0815","2024-11-05 11:41:50.075566"
+42,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\23.png",1360,"0.0816","2024-11-05 11:41:57.462885"
+43,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\24.png",1341,"0.0805","2024-11-05 11:42:04.997846"
+44,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\25.png",1358,"0.0815","2024-11-05 11:42:13.074705"
+45,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\26.png",1358,"0.0815","2024-11-05 11:42:20.067191"
+46,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\27.png",1358,"0.0815","2024-11-05 11:42:27.170824"
+47,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\28.png",1361,"0.0817","2024-11-05 11:42:34.57258"
+48,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\29.png",1358,"0.0815","2024-11-05 11:42:43.291782"
+49,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\30.png",1356,"0.0814","2024-11-05 11:42:50.686268"
+50,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\31.png",1358,"0.0815","2024-11-05 11:42:57.899751"
+51,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\32.png",1360,"0.0816","2024-11-05 11:43:05.167109"
+52,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\33.png",1358,"0.0815","2024-11-05 11:43:12.611967"
+53,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\34.png",1355,"0.0813","2024-11-05 11:43:21.099697"
+54,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\35.png",1341,"0.0805","2024-11-05 11:43:31.664568"
+55,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\36.png",1341,"0.0805","2024-11-05 11:43:40.411706"
+56,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\37.png",1341,"0.0805","2024-11-05 11:43:48.259576"
+57,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\38.png",1341,"0.0805","2024-11-05 11:43:57.08648"
+58,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\39.png",1341,"0.0805","2024-11-05 11:44:05.030775"
+59,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\40.png",1341,"0.0805","2024-11-05 11:44:12.979367"
+60,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\41.png",1341,"0.0805","2024-11-05 11:44:20.031838"
+61,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\42.png",1341,"0.0805","2024-11-05 11:44:27.105751"
+62,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\43.png",1341,"0.0805","2024-11-05 11:44:35.032621"
+63,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\44.png",1341,"0.0805","2024-11-05 11:44:42.586587"
+64,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\45.png",1341,"0.0805","2024-11-05 11:44:49.912607"
+65,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\46.png",1341,"0.0805","2024-11-05 11:44:58.034016"
+66,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\47.png",1341,"0.0805","2024-11-05 11:45:06.905991"
+67,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\48.png",1341,"0.0805","2024-11-05 11:45:14.37847"
+68,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\49.png",1358,"0.0815","2024-11-05 11:45:22.048742"
+69,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\50.png",1341,"0.0805","2024-11-05 11:45:30.346617"
+70,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\51.png",1357,"0.0814","2024-11-05 11:45:37.726625"
+71,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\52.png",1341,"0.0805","2024-11-05 11:45:45.387587"
+72,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Farmatodo\53.png",1341,"0.0805","2024-11-05 11:45:52.796643"
+73,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaEconomia\01.png",1341,"0.0805","2024-11-05 11:46:00.313364"
+74,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaEconomia\02.png",1360,"0.0816","2024-11-05 11:46:08.358395"
+75,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaEconomia\03.png",1341,"0.0805","2024-11-05 11:46:16.547019"
+76,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaEconomia\04.png",1357,"0.0814","2024-11-05 11:46:24.650808"
+77,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaEconomia\05.png",1349,"0.0809","2024-11-05 11:46:32.188713"
+78,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaEconomia\06.png",1341,"0.0805","2024-11-05 11:46:40.721508"
+79,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaEconomia\07.png",1357,"0.0814","2024-11-05 11:46:48.98374"
+80,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaEconomia\08.png",1341,"0.0805","2024-11-05 11:46:58.215247"
+81,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaEconomia\09.png",1360,"0.0816","2024-11-05 11:47:06.679457"
+82,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\01.png",1356,"0.0814","2024-11-05 11:47:14.817672"
+83,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\02.png",1359,"0.0815","2024-11-05 11:47:23.076508"
+84,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\03.png",1341,"0.0805","2024-11-05 11:47:32.985585"
+85,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\04.png",1356,"0.0814","2024-11-05 11:47:42.009596"
+86,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\05.png",1362,"0.0817","2024-11-05 11:47:54.672254"
+87,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\06.png",1357,"0.0814","2024-11-05 11:48:02.770598"
+88,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\07.png",1357,"0.0814","2024-11-05 11:48:10.144548"
+89,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\08.png",1356,"0.0814","2024-11-05 11:48:18.200613"
+90,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\09.png",1357,"0.0814","2024-11-05 11:48:26.458791"
+91,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\10.png",1341,"0.0805","2024-11-05 11:48:33.827639"
+92,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\11.png",1341,"0.0805","2024-11-05 11:48:41.227578"
+93,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\12.png",1359,"0.0815","2024-11-05 11:48:48.368117"
+94,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\13.png",1341,"0.0805","2024-11-05 11:48:55.889632"
+95,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\14.png",1360,"0.0816","2024-11-05 11:49:06.340618"
+96,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\LaRebaja\15.png",1341,"0.0805","2024-11-05 11:49:14.600975"
+97,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\01.png",1358,"0.0815","2024-11-05 11:49:23.667689"
+98,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\02.png",1358,"0.0815","2024-11-05 11:49:31.96689"
+99,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\03.png",1356,"0.0814","2024-11-05 11:49:39.49928"
+100,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\04.png",1341,"0.0805","2024-11-05 11:49:47.290613"
+101,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\05.png",1363,"0.0818","2024-11-05 11:49:54.637592"
+102,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\06.png",1358,"0.0815","2024-11-05 11:50:02.520777"
+103,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\07.png",1357,"0.0814","2024-11-05 11:50:10.687236"
+104,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\08.png",1357,"0.0814","2024-11-05 11:50:18.425982"
+105,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\09.png",1341,"0.0805","2024-11-05 11:50:26.325705"
+106,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\10.png",1362,"0.0817","2024-11-05 11:50:33.72495"
+107,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\11.png",1358,"0.0815","2024-11-05 11:50:41.031396"
+108,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\12.png",1357,"0.0814","2024-11-05 11:50:47.750675"
+109,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\13.png",1361,"0.0817","2024-11-05 11:50:55.062775"
+110,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\14.png",1341,"0.0805","2024-11-05 11:51:03.046457"
+111,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\15.png",1341,"0.0805","2024-11-05 11:51:10.237481"
+112,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\16.png",1341,"0.0805","2024-11-05 11:51:17.69215"
+113,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\17.png",1341,"0.0805","2024-11-05 11:51:25.078615"
+114,"
+            Imagina que eres un analista de marketing en Colombia especializado en droguerías y establecimientos similares. Se te ha enviado un anuncio y debes extraer la siguiente información:
+            - Categoría/marca de productos ofrecidos (si es más de 1, agrúpalos bajo la categoría que corresponda).
+            - Fechas de la oferta.
+            - Porcentaje de descuento ofrecido (si hay más de un porcentaje, escoge el menor).
+            - Si no es un anuncio de descuento, responde con: ""Null | NaN | Inicio: Null. Fin: Null"".
+
+            El formato de respuesta deberá ser el siguiente:
+            [Categoría de productos] | [Porcentaje de descuento] | Inicio: [Fecha de inicio]. Fin: [Fecha de fin].
+
+            Ejemplo:
+            Medicamentos para la gripe | 20% | Inicio: 17/10/2024. Fin: 24/10/2024.
+        ","src/img\Locatel\18.png",1341,"0.0805","2024-11-05 11:51:32.31562"

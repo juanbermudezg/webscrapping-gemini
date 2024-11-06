@@ -5,29 +5,22 @@ from utils import log_message
 import os
 import time
 
-"""
-def main():
-    log_message('Started main function in main.py')
-    image_path = 'img/01.webp'
-    file_path = 'src/final.xlsx'
-    response = main_function_imageRecognitionChatGPT(image_path)
-    print(response)
-    main_function_utilities(file_path, response, image_path)
-    log_message('Finished main function in main.py')
-"""
 
 def main():
     log_message('Started main function in main.py')
-    directory = 'img'
-    file_path = 'src/finalCHATGPT.xlsx'
+    base_directory = 'src/img'
+    file_path = 'output/finalCHATGPT.xlsx'
     responses = []
-    for filename in os.listdir(directory):
-        time.sleep(7)
-        if filename.endswith(('.jpg', '.jpeg', '.png', '.webp')):
-            image_path = os.path.join(directory, filename)
-            response = main_function_imageRecognitionChatGPT(image_path)
-            responses.append(response)
-            main_function_utilities(file_path, response, image_path)
+    for root, dirs, files in os.walk(base_directory):
+        for filename in files:
+            if filename.endswith('.png'):
+                image_path = os.path.join(root, filename)
+                time.sleep(3)
+                response = main_function_imageRecognitionChatGPT(image_path)
+                responses.append(response)
+                main_function_utilities(file_path, response, image_path)       
+    for response in responses:
+        print(response)
     for response in responses:
         print(response)
     log_message('Finished main function in main.py')
@@ -35,20 +28,20 @@ def main():
 """
 def main():
     log_message('Started main function in main.py')
-    directory = 'img'
-    file_path = 'src/final.xlsx'
+    base_directory  = 'src/img'
+    file_path = 'output/finalGemini.xlsx'
     responses = []
-    for filename in os.listdir(directory):
-        time.sleep(7)
-        if filename.endswith(('.jpg', '.jpeg', '.png', '.webp')):
-            image_path = os.path.join(directory, filename)
-            response = main_function_imageRecognitionGemini(image_path)
-            responses.append(response)
-            main_function_utilities(file_path, response, image_path)
+    for root, dirs, files in os.walk(base_directory):
+        for filename in files:
+            if filename.endswith('.png'):
+                image_path = os.path.join(root, filename)
+                time.sleep(3)
+                response = main_function_imageRecognitionGemini(image_path)
+                responses.append(response)
+                main_function_utilities(file_path, response, image_path)       
     for response in responses:
         print(response)
     log_message('Finished main function in main.py')
 """
-
 if __name__ == "__main__":
     main()

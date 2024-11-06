@@ -362,3 +362,447 @@ img\46.webp:	Null - NaN - Null - Null --- 2024-10-23 16:49:42
 img\47.webp:	Cepillos dentales - 20% - 01/10/2024 - 31/10/2024 --- 2024-10-23 16:49:54
 img\48.webp:	Null - NaN - Null - Null --- 2024-10-23 16:50:03
 img\49.webp:	Null - NaN - Null - Null --- 2024-10-23 16:50:14
+src/img\Cruz Verde\01.png:	Nutribela 15 - 25% - 24/10/2024 - 30/10/2024 --- 2024-10-30 14:17:01
+src/img\Cruz Verde\02.png:	Productos de higiene bucal - 22% - 1, 8, 15, 22 y 23 de Octubre/2024 - Null --- 2024-10-30 14:17:06
+src/img\Cruz Verde\03.png:	Cuidado Facial Dermo - 20% - Null - Null --- 2024-10-30 14:17:11
+src/img\Cruz Verde\04.png:	Medicamentos - 30% - Null - Null --- 2024-10-30 14:17:18
+src/img\Cruz Verde\05.png:	Protectores solares Isdin - 25% - 27/10/2024 - 23/10/2041 --- 2024-10-30 14:17:23
+src/img\Cruz Verde\06.png:	Cuidado personal - 30% - 24/10/2024 - Null --- 2024-10-30 14:17:28
+src/img\Cruz Verde\07.png:	Dermosolares - 30% - 1/10/2024 - 28/10/2024 --- 2024-10-30 14:17:33
+src/img\Cruz Verde\08.png:	Bienestar y Nutrición - 25% - Null - Null --- 2024-10-30 14:17:38
+src/img\Cruz Verde\09.png:	Productos para Mujer y Hombre - 30% - 26/10/2024 - 31/10/2024 --- 2024-10-30 14:17:43
+src/img\Cruz Verde\10.png:	Cuidado piel - 25% - 26/10/2024 - 31/10/2024 --- 2024-10-30 14:17:49
+src/img\Cruz Verde\11.png:	Medicamentos cardiovasculares - 20% - Null - Null --- 2024-10-30 14:17:54
+src/img\Cruz Verde\12.png:	Bebé y maternidad - 25% - 24/10/2024 - 31/10/2024 --- 2024-10-30 14:17:59
+src/img\Cruz Verde\13.png:	Suplementos dietarios - 60% - Null - Null --- 2024-10-30 14:18:04
+src/img\Cruz Verde\15.png:	Medicamentos respiratorios - 60% - Null - Null --- 2024-10-30 14:18:14
+src/img\Cruz Verde\16.png:	Cetaphil - Null - Null - Null --- 2024-10-30 14:18:19
+src/img\Cruz Verde\17.png:	Suplementos dietarios - 21% - 29/10/2024 - Null --- 2024-10-30 14:18:24
+src/img\Cruz Verde\18.png:	Aceite de ducha Eucerin - 20% - 1 de Octubre de 2024 - 31 de Octubre de 2024 --- 2024-10-30 14:18:29
+src/img\Cruz Verde\19.png:	Productos Nivea - 20% - 24/10/2024 - 31/10/2024 --- 2024-10-30 14:18:34
+src/img\Farmatodo\01.png:	Cosméticos - 25% - 11/10/2024 - 31/10/2024 --- 2024-10-30 14:18:39
+src/img\Farmatodo\02.png:	Cuidado personal - 20% - 25/10/2024 - 07/11/2024 --- 2024-10-30 14:18:45
+src/img\Farmatodo\03.png:	Vitaminas y suplementos dietarios - 20% - 27 de octubre - Null --- 2024-10-30 14:18:50
+src/img\Farmatodo\04.png:	Productos para el cuidado del bebé - 20% - 25/10/2024 - 07/11/2024 --- 2024-10-30 14:18:55
+src/img\Farmatodo\05.png:	Medicamentos - 25% - 25/10/2024 - 07/11/2024 --- 2024-10-30 14:19:00
+src/img\Farmatodo\06.png:	Bebidas y Snacks - 20% - 25/10/2024 - 07/11/2024 --- 2024-10-30 14:19:05
+src/img\Farmatodo\07.png:	Vitaminas y suplementos dietarios - 20% - 27/10/2024 - Null --- 2024-10-30 14:19:10
+src/img\Farmatodo\08.png:	Galletas Oreo - Null - Null - Null --- 2024-10-30 14:19:15
+src/img\Farmatodo\09.png:	Desodorantes Nivea - 25% - 25/10/2024 - 07/11/2024 --- 2024-10-30 14:19:20
+src/img\Farmatodo\10.png:	Productos para el cuidado de la piel - 25% - 25/10/2024 - 31/10/2024 --- 2024-10-30 14:19:26
+src/img\Farmatodo\11.png:	Cosméticos Clinique - 15% - 01/10/2024 - 30/11/2024 --- 2024-10-30 14:19:31
+src/img\Farmatodo\12.png:	Maquillaje Maybelline - Null - Null - Null --- 2024-10-30 14:19:36
+src/img\Farmatodo\13.png:	Cuidado dental Colgate PerioGard - 35% - 25/10/2024 - 31/10/2024 --- 2024-10-30 14:19:41
+src/img\Farmatodo\14.png:	Dermocosmética - 25% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:19:46
+src/img\Farmatodo\15.png:	Protectores solares Isdin - 25% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:19:51
+src/img\Farmatodo\16.png:	Cremas corporales Nivea - 30% - 25/10/2024 - 07/11/2024 --- 2024-10-30 14:19:56
+src/img\Farmatodo\17.png:	Shampoo Dove - 35% - 25/10/2024 - 30/10/2024 --- 2024-10-30 14:20:01
+src/img\Farmatodo\18.png:	Medicamentos para el dolor de cabeza - Null - Null - Null --- 2024-10-30 14:20:06
+src/img\Farmatodo\20.png:	Medicamentos para la alergia - 20% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:20:16
+src/img\Farmatodo\21.png:	Membresia Prime - Null - Null - Null --- 2024-10-30 14:20:21
+src/img\Farmatodo\22.png:	Medicamentos para la alergia - 20% - 25/10/2024 - 31/10/2024 --- 2024-10-30 14:20:26
+src/img\Farmatodo\23.png:	Cosméticos Maybelline - 20% - 01/10/2024 - 30/11/2024 --- 2024-10-30 14:20:31
+src/img\Farmatodo\24.png:	Medicamentos - 57% - 09/2024 - Null --- 2024-10-30 14:20:36
+src/img\Farmatodo\26.png:	CeraVe - 15% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:20:46
+src/img\Farmatodo\27.png:	Productos para el cuidado de la piel - 30% - 25/10/2024 - 30/10/2024 --- 2024-10-30 14:20:51
+src/img\Farmatodo\28.png:	Productos para el cuidado de la piel Avene - 30% - 01/09/2024 - 31/12/2024 --- 2024-10-30 14:20:56
+src/img\Farmatodo\29.png:	Bebidas instantáneas - 15% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:21:01
+src/img\Farmatodo\30.png:	Productos Nivea - 20% - 01/09/2024 - 31/12/2024 --- 2024-10-30 14:21:06
+src/img\Farmatodo\31.png:	Productos de belleza Vogue - 20% - 01/09/2024 - 30/11/2024 --- 2024-10-30 14:21:11
+src/img\Farmatodo\32.png:	Toallitas húmedas - 20% - 01/09/2024 - 30/11/2024 --- 2024-10-30 14:21:17
+src/img\Farmatodo\33.png:	Medicamentos para la acidez estomacal - 25% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:21:22
+src/img\Farmatodo\34.png:	Alimentos para mascotas - 20% - 01/10/2024 - 31/12/2024 --- 2024-10-30 14:21:27
+src/img\Farmatodo\35.png:	Pañales - Null - Null - Null --- 2024-10-30 14:21:32
+src/img\Farmatodo\36.png:	Productos para el cuidado de la piel - Null - Null - Null --- 2024-10-30 14:21:37
+src/img\Farmatodo\37.png:	Base de maquillaje - Null - Null - Null --- 2024-10-30 14:21:42
+src/img\Farmatodo\38.png:	Gotas oftálmicas - Null - Null - Null --- 2024-10-30 14:21:47
+src/img\Farmatodo\39.png:	Protectores solares - Null - Null - Null --- 2024-10-30 14:21:52
+src/img\Farmatodo\40.png:	Enjuague bucal - Null | NaN - Null - Null --- 2024-10-30 14:21:57
+src/img\Farmatodo\42.png:	Cremas faciales - 77% - Null - Null --- 2024-10-30 14:22:07
+src/img\Farmatodo\43.png:	Cosméticos - Null - Null - Null --- 2024-10-30 14:22:14
+src/img\Farmatodo\44.png:	Cepillos dentales Curaprox - Null - Null - Null --- 2024-10-30 14:22:19
+src/img\Farmatodo\45.png:	Medicamentos para el sistema digestivo - Null - Null - Null --- 2024-10-30 14:22:24
+src/img\Farmatodo\46.png:	Cremas faciales Nivea Cellular Luminous Anti-Manchas - Null - Null - Null --- 2024-10-30 14:22:29
+src/img\Farmatodo\47.png:	Cremas faciales - Null - Null - Null --- 2024-10-30 14:22:35
+src/img\Farmatodo\48.png:	Medicamentos para el estreñimiento - Null - Null - Null --- 2024-10-30 14:22:40
+src/img\Farmatodo\49.png:	Savvy - 10% - 01/09/2024 - 30/11/2024 --- 2024-10-30 14:22:46
+src/img\Farmatodo\50.png:	Productos de cuidado personal - Null - Null - Null --- 2024-10-30 14:22:51
+src/img\Farmatodo\51.png:	Cepillos de dientes Curaprox - 20% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:22:58
+src/img\Farmatodo\52.png:	Medicamentos para la tos - Null - Null - Null --- 2024-10-30 14:23:03
+src/img\Farmatodo\53.png:	Protectores solares Eucerin - Null - Null - Null --- 2024-10-30 14:23:10
+src/img\LaEconomia\01.png:	Crema para tatuajes Acid Mantle - Null | NaN - Null - Null --- 2024-10-30 14:23:17
+src/img\LaEconomia\02.png:	Medicamentos para la gripe - 25% - 21/10/2024 - 31/10/2024 --- 2024-10-30 14:23:22
+src/img\LaEconomia\03.png:	Leche para bebés - Null - Null - Null --- 2024-10-30 14:23:27
+src/img\LaEconomia\05.png:	Medicamentos - 25% - Null - 31/12/2024 --- 2024-10-30 14:23:38
+src/img\LaEconomia\07.png:	Productos para el cuidado deportivo - 20% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:23:48
+src/img\LaEconomia\08.png:	Suplementos vitamínicos - Null - Null - Null --- 2024-10-30 14:23:53
+src/img\LaRebaja\01.png:	Productos de cuidado personal - 30% - Null - Null --- 2024-10-30 14:24:04
+src/img\LaRebaja\03.png:	Fotoprotectores Isdin FusionWater Magic - 61% - Null - Null --- 2024-10-30 14:24:14
+src/img\LaRebaja\05.png:	Medicamentos para la alergia - 20% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:24:25
+src/img\LaRebaja\06.png:	Productos para el cuidado del cabello - 30% - Null - Null --- 2024-10-30 14:24:30
+src/img\LaRebaja\07.png:	Productos Colgate - 20% - 25/10/2024 - 31/10/2024 --- 2024-10-30 14:24:35
+src/img\LaRebaja\08.png:	Desodorantes Speed Stick - 20% - 25/10/2024 - 31/10/2024 --- 2024-10-30 14:24:40
+src/img\LaRebaja\09.png:	Tratamientos capilares Savital - 25% - 05/10/2024 - 31/10/2024 --- 2024-10-30 14:24:45
+src/img\LaRebaja\10.png:	Leche en polvo para bebés - Null - Null - Null --- 2024-10-30 14:24:51
+src/img\LaRebaja\11.png:	Null - NaN - Null - Null --- 2024-10-30 14:24:57
+src/img\LaRebaja\12.png:	Desodorantes y Antitranspirantes - 30% - Null - Null --- 2024-10-30 14:25:02
+src/img\LaRebaja\13.png:	Leche para bebés - Null | NaN - Null - Null --- 2024-10-30 14:25:07
+src/img\LaRebaja\14.png:	Celulares, TV y mucho más - 40% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:25:12
+src/img\LaRebaja\15.png:	Null - NaN - Null - Null --- 2024-10-30 14:25:19
+src/img\Locatel\01.png:	Productos de cuidado personal - 40% - 29/10/2024 - 31/10/2024 --- 2024-10-30 14:25:24
+src/img\Locatel\04.png:	Null - NaN - Null - Null --- 2024-10-30 14:25:41
+src/img\Locatel\06.png:	Gummies - 30% - 28/10/2024 - 4/11/2024 --- 2024-10-30 14:25:51
+src/img\Locatel\07.png:	Suplementos vitamínicos - 20% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:25:56
+src/img\Locatel\08.png:	Protectores solares faciales Eucerin - 30% - 21 de julio - 31 de julio --- 2024-10-30 14:26:01
+src/img\Locatel\09.png:	Suplementos dietarios - 43% - Null - Null --- 2024-10-30 14:26:07
+src/img\Locatel\10.png:	Productos del mes - 30% - 01/10/2024 - 30/10/2024 --- 2024-10-30 14:26:12
+src/img\Locatel\11.png:	Medicamentos para el dolor - 15% - 01/10/2024 - 30/10/2024 --- 2024-10-30 14:26:17
+src/img\Locatel\12.png:	Productos para el cuidado de la piel - 25% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:26:22
+src/img\Locatel\13.png:	Productos para bebés y niños - 15% - 16/10/2024 - 31/10/2024 --- 2024-10-30 14:26:27
+src/img\Locatel\14.png:	Bebida probiótica - Null - Null - Null --- 2024-10-30 14:26:33
+src/img\Locatel\15.png:	Nutrición - 40% - Null - Null --- 2024-10-30 14:26:38
+src/img\Locatel\16.png:	Null - NaN - Null - Null --- 2024-10-30 14:26:45
+src/img\Locatel\17.png:	Cremas para manchas - 40% - Null - Null --- 2024-10-30 14:26:50
+src/img\Locatel\18.png:	Cremas faciales - 40% - 29/10/2024 - Null --- 2024-10-30 14:26:58
+src/img\Cruz Verde\01.png:	Tratamientos capilares - 25% - 24/10/2024 - 30/10/2024 --- 2024-10-30 14:29:34
+src/img\Cruz Verde\02.png:	Higiene bucal - 40% - 8/10/2024 - 29/10/2024 --- 2024-10-30 14:29:42
+src/img\Cruz Verde\03.png:	Cuidado facial dermo - 20% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:29:50
+src/img\Cruz Verde\04.png:	Medicamentos - 30% - Null - Null --- 2024-10-30 14:29:58
+src/img\Cruz Verde\05.png:	Dermo solares - 25% - 27/10/2024 - 31/10/2024 --- 2024-10-30 14:30:06
+src/img\Cruz Verde\06.png:	Cuidado personal - 30% - 24/10/2024 - 31/10/2024 --- 2024-10-30 14:30:13
+src/img\Cruz Verde\07.png:	Dermosolares - 30% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:30:21
+src/img\Cruz Verde\08.png:	Bienestar y nutrición - 25% - 24/10/2024 - 31/10/2024 --- 2024-10-30 14:30:29
+src/img\Cruz Verde\09.png:	Productos para mujer y hombre - 30% - 24/10/2024 - 31/10/2024 --- 2024-10-30 14:30:37
+src/img\Cruz Verde\10.png:	Cuidado de la piel - 25% - 24/10/2024 - 31/10/2024 --- 2024-10-30 14:30:44
+src/img\Cruz Verde\11.png:	Cardiovasculares - 20% - Null - Null --- 2024-10-30 14:30:51
+src/img\Cruz Verde\12.png:	Bebé y maternidad - 25% - 24/10/2024 - 31/10/2024 --- 2024-10-30 14:30:58
+src/img\Cruz Verde\13.png:	Suplementos dietarios - 60% - Null - Null --- 2024-10-30 14:31:05
+src/img\Cruz Verde\14.png:	Productos gástricos - 60% - Null - Null --- 2024-10-30 14:31:11
+src/img\Cruz Verde\15.png:	Respiratorios - 60% - Null - Null --- 2024-10-30 14:31:18
+src/img\Cruz Verde\16.png:	Null - NaN - Null - Null --- 2024-10-30 14:31:25
+src/img\Cruz Verde\17.png:	Null - NaN - Null - Null --- 2024-10-30 14:31:33
+src/img\Cruz Verde\18.png:	Aceite de ducha - 20% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:31:40
+src/img\Cruz Verde\19.png:	Cuidado de la piel - 20% - 24/10/2024 - 31/10/2024 --- 2024-10-30 14:31:48
+src/img\Farmatodo\01.png:	Maquillaje - 25% - 11/10/2024 - 31/10/2024 --- 2024-10-30 14:31:59
+src/img\Farmatodo\02.png:	Cuidado personal - 20% - 25/10/2024 - 07/11/2024 --- 2024-10-30 14:32:06
+src/img\Farmatodo\03.png:	Vitaminas y suplementos dietarios - 20% - 27/10/2024 - 02/11/2024 --- 2024-10-30 14:32:13
+src/img\Farmatodo\04.png:	Cuidado del bebé - 20% - 25/10/2024 - 07/11/2024 --- 2024-10-30 14:32:22
+src/img\Farmatodo\05.png:	Salud - 25% - 25/10/2024 - 07/11/2024 --- 2024-10-30 14:32:29
+src/img\Farmatodo\06.png:	Bebidas y snacks - 20% - 25/10/2024 - 07/11/2024 --- 2024-10-30 14:32:37
+src/img\Farmatodo\07.png:	Vitaminas y suplementos dietarios - 20% - 27/10/2024 - 02/11/2024 --- 2024-10-30 14:32:49
+src/img\Farmatodo\08.png:	Null - NaN - Null - Null --- 2024-10-30 14:33:00
+src/img\Farmatodo\09.png:	Desodorantes de Nivea - 25% - 25/10/2024 - 7/11/2024 --- 2024-10-30 14:33:07
+src/img\Farmatodo\10.png:	Cuidado de la piel - 25% - 25/10/2024 - 31/10/2024 --- 2024-10-30 14:33:15
+src/img\Farmatodo\11.png:	Productos de belleza Clinique - 15% - 01/10/2024 - 30/11/2024 --- 2024-10-30 14:33:24
+src/img\Farmatodo\12.png:	Null - NaN - Null - Null --- 2024-10-30 14:33:33
+src/img\Farmatodo\13.png:	Cuidado dental - 30% - 25/10/2024 - 31/10/2024 --- 2024-10-30 14:33:42
+src/img\Farmatodo\14.png:	Dermocosmética - 25% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:33:49
+src/img\Farmatodo\15.png:	Protector solar Isdin - 25% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:33:58
+src/img\Farmatodo\16.png:	Cremas corporales - 5% - 25/10/2024 - 07/11/2024 --- 2024-10-30 14:34:06
+src/img\Farmatodo\17.png:	Productos para el cuidado del cabello - 30% - 25/10/2024 - 30/10/2024 --- 2024-10-30 14:34:13
+src/img\Farmatodo\18.png:	Null - NaN - Null - Null --- 2024-10-30 14:34:22
+src/img\Farmatodo\19.png:	Null - NaN - Null - Null --- 2024-10-30 14:34:29
+src/img\Farmatodo\20.png:	Alivio de la rinitis alérgica - 20% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:34:36
+src/img\Farmatodo\21.png:	Null - NaN - Null - Null --- 2024-10-30 14:34:44
+src/img\Farmatodo\22.png:	Antialérgicos - 20% - 25/10/2024 - 31/10/2024 --- 2024-10-30 14:34:51
+src/img\Farmatodo\23.png:	Maquillaje Maybelline - 20% - 1/10/2024 - 30/11/2024 --- 2024-10-30 14:34:58
+src/img\Farmatodo\24.png:	Null - NaN - Null - Null --- 2024-10-30 14:35:05
+src/img\Farmatodo\25.png:	Cuidado de la piel - 15% - 01/09/2024 - 31/12/2024 --- 2024-10-30 14:35:12
+src/img\Farmatodo\26.png:	Cuidado de la piel - 15% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:35:19
+src/img\Farmatodo\27.png:	Cuidado de la piel - 30% - 25/10/2024 - 30/10/2024 --- 2024-10-30 14:35:29
+src/img\Farmatodo\28.png:	Cuidado de la piel - 30% - 1/09/2024 - 31/12/2024 --- 2024-10-30 14:35:37
+src/img\Farmatodo\29.png:	Suplementos de belleza - 15% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:35:45
+src/img\Farmatodo\30.png:	Cuidado personal - 20% - 01/09/2024 - 31/12/2024 --- 2024-10-30 14:35:52
+src/img\Farmatodo\31.png:	Maquillaje - 20% - 01/09/2024 - 30/11/2024 --- 2024-10-30 14:35:59
+src/img\Farmatodo\32.png:	Toallitas Húmedas - 20% - 01/09/2024 - 30/11/2024 --- 2024-10-30 14:36:06
+src/img\Farmatodo\33.png:	Alka-Seltzer - 25% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:36:14
+src/img\Farmatodo\34.png:	Mascotas - 20% - 01/10/2024 - 31/12/2024 --- 2024-10-30 14:36:21
+src/img\Farmatodo\35.png:	Null - NaN - Null - Null --- 2024-10-30 14:36:29
+src/img\Farmatodo\36.png:	Null - NaN - Null - Null --- 2024-10-30 14:36:35
+src/img\Farmatodo\37.png:	Null - NaN - Null - Null --- 2024-10-30 14:36:43
+src/img\Farmatodo\38.png:	Null - NaN - Null - Null --- 2024-10-30 14:36:51
+src/img\Farmatodo\39.png:	Null - NaN - Null - Null --- 2024-10-30 14:37:00
+src/img\Farmatodo\40.png:	Null - NaN - Null - Null --- 2024-10-30 14:37:07
+src/img\Farmatodo\41.png:	Null - NaN - Null - Null --- 2024-10-30 14:37:13
+src/img\Farmatodo\42.png:	Null - NaN - Null - Null --- 2024-10-30 14:37:20
+src/img\Farmatodo\43.png:	Null - NaN - Null - Null --- 2024-10-30 14:37:27
+src/img\Farmatodo\44.png:	Null - NaN - Null - Null --- 2024-10-30 14:37:36
+src/img\Farmatodo\45.png:	Null - NaN - Null - Null --- 2024-10-30 14:37:43
+src/img\Farmatodo\46.png:	Null - NaN - Null - Null --- 2024-10-30 14:37:50
+src/img\Farmatodo\47.png:	Null - NaN - Null - Null --- 2024-10-30 14:37:58
+src/img\Farmatodo\48.png:	Null - NaN - Null - Null --- 2024-10-30 14:38:06
+src/img\Farmatodo\49.png:	Suplementos alimenticios - 10% - 01/09/2024 - 30/11/2024 --- 2024-10-30 14:38:13
+src/img\Farmatodo\50.png:	Null - NaN - Null - Null --- 2024-10-30 14:38:21
+src/img\Farmatodo\51.png:	Cepillos dentales - 20% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:38:29
+src/img\Farmatodo\52.png:	Null - NaN - Null - Null --- 2024-10-30 14:38:36
+src/img\Farmatodo\53.png:	Null - NaN - Null - Null --- 2024-10-30 14:38:44
+src/img\LaEconomia\01.png:	Null - NaN - Null - Null --- 2024-10-30 14:38:52
+src/img\LaEconomia\02.png:	Medicamentos y productos de cuidado personal - 25% - 21/10/2024 - 31/10/2024 --- 2024-10-30 14:38:59
+src/img\LaEconomia\03.png:	Null - NaN - Null - Null --- 2024-10-30 14:39:07
+src/img\LaEconomia\04.png:	Enterogermina - 10% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:39:15
+src/img\LaEconomia\05.png:	Floratil - 25% - Null - 31/12/2024 --- 2024-10-30 14:39:22
+src/img\LaEconomia\06.png:	Null - NaN - Null - Null --- 2024-10-30 14:39:28
+src/img\LaEconomia\07.png:	Forz Sport - 20% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:39:35
+src/img\LaEconomia\08.png:	Null - NaN - Null - Null --- 2024-10-30 14:39:41
+src/img\LaEconomia\09.png:	Cuidado de la piel - 40% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:39:48
+src/img\LaRebaja\01.png:	Cuidado personal - 30% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:39:56
+src/img\LaRebaja\02.png:	Productos de cuidado personal y salud - 30% - 26/10/2024 - 31/10/2024 --- 2024-10-30 14:40:04
+src/img\LaRebaja\03.png:	Null - NaN - Null - Null --- 2024-10-30 14:40:11
+src/img\LaRebaja\04.png:	Productos de cuidado personal y salud - 20% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:40:20
+src/img\LaRebaja\05.png:	Antialérgicos - 20% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:40:28
+src/img\LaRebaja\06.png:	Cuidado del cabello - 30% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:40:36
+src/img\LaRebaja\07.png:	Cuidado bucal - 20% - 25/10/2024 - 31/10/2024 --- 2024-10-30 14:40:42
+src/img\LaRebaja\08.png:	Desodorantes - 20% - 25/10/2024 - 31/10/2024 --- 2024-10-30 14:40:50
+src/img\LaRebaja\09.png:	Tratamientos capilares - 25% - 05/10/2024 - 31/10/2024 --- 2024-10-30 14:40:57
+src/img\LaRebaja\10.png:	Null - NaN - Null - Null --- 2024-10-30 14:41:04
+src/img\LaRebaja\11.png:	Null - NaN - Null - Null --- 2024-10-30 14:41:11
+src/img\LaRebaja\12.png:	Desodorantes para axilas y pies - 30% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:41:18
+src/img\LaRebaja\13.png:	Null - NaN - Null - Null --- 2024-10-30 14:41:26
+src/img\LaRebaja\14.png:	Celulares, TV y mucho más - 40% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:41:35
+src/img\LaRebaja\15.png:	Null - NaN - Null - Null --- 2024-10-30 14:41:41
+src/img\Locatel\01.png:	Cuidado personal y salud - 40% - 29/10/2024 - 31/10/2024 --- 2024-10-30 14:41:48
+src/img\Locatel\02.png:	Medicamentos genéricos - 50% - Null - Null --- 2024-10-30 14:41:55
+src/img\Locatel\03.png:	Productos de cuidado personal y bienestar - 30% - 16/10/2024 - 31/10/2024 --- 2024-10-30 14:42:02
+src/img\Locatel\04.png:	Null - NaN - Null - Null --- 2024-10-30 14:42:09
+src/img\Locatel\05.png:	Cuidado de la piel - 30% - 17/10/2024 - 27/10/2024 --- 2024-10-30 14:42:17
+src/img\Locatel\06.png:	Vitaminas y suplementos - 30% - 28/10/2024 - 04/11/2024 --- 2024-10-30 14:42:23
+src/img\Locatel\07.png:	Vitaminas y suplementos - 20% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:42:34
+src/img\Locatel\08.png:	Protector solar facial - 30% - 1/10/2024 - 31/10/2024 --- 2024-10-30 14:42:41
+src/img\Locatel\09.png:	Null - NaN - Null - Null --- 2024-10-30 14:42:50
+src/img\Locatel\10.png:	Cuidado de la piel - 30% - 1/10/2024 - 30/10/2024 --- 2024-10-30 14:42:57
+src/img\Locatel\11.png:	Medicamentos para el dolor - 19% - 1/10/2024 - 30/10/2024 --- 2024-10-30 14:43:05
+src/img\Locatel\12.png:	Cuidado de la piel - 25% - 01/10/2024 - 31/10/2024 --- 2024-10-30 14:43:13
+src/img\Locatel\13.png:	Cuidado de bebés y niños - 15% - 16/10/2024 - 31/10/2024 --- 2024-10-30 14:43:20
+src/img\Locatel\14.png:	Null - NaN - Null - Null --- 2024-10-30 14:43:27
+src/img\Locatel\15.png:	Null - NaN - Null - Null --- 2024-10-30 14:43:35
+src/img\Locatel\16.png:	Null - NaN - Null - Null --- 2024-10-30 14:43:43
+src/img\Locatel\17.png:	Null - NaN - Null - Null --- 2024-10-30 14:43:50
+src/img\Locatel\18.png:	Null - NaN - Null - Null --- 2024-10-30 14:43:57
+src/img\Cruz Verde\01.png:	Tratamientos capilares - 25% - 24/10/2024 - 30/10/2024 --- 2024-11-05 11:00:27
+src/img\Cruz Verde\02.png:	Higiene bucal - 40% - 8/10/2024 - 29/10/2024 --- 2024-11-05 11:00:37
+src/img\Cruz Verde\03.png:	Cuidado facial dermo - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:00:46
+src/img\Cruz Verde\04.png:	Medicamentos - 30% - Null - Null --- 2024-11-05 11:00:54
+src/img\Cruz Verde\05.png:	Dermo solares - 25% - 27/10/2024 - 31/10/2024 --- 2024-11-05 11:01:01
+src/img\Cruz Verde\06.png:	Cuidado personal - 30% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:01:09
+src/img\Cruz Verde\07.png:	Dermosolares - 30% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:01:20
+src/img\Cruz Verde\08.png:	Bienestar y nutrición - 25% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:01:29
+src/img\Cruz Verde\09.png:	Productos para mujer y hombre - 30% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:01:39
+src/img\Cruz Verde\10.png:	Cuidado de la piel - 25% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:01:47
+src/img\Cruz Verde\11.png:	Cardiovasculares - 20% - Null - Null --- 2024-11-05 11:01:55
+src/img\Cruz Verde\12.png:	Bebé y maternidad - 25% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:02:03
+src/img\Cruz Verde\13.png:	Suplementos dietarios - 60% - Null - Null --- 2024-11-05 11:02:11
+src/img\Cruz Verde\14.png:	Productos gástricos - 60% - Null - Null --- 2024-11-05 11:02:19
+src/img\Cruz Verde\15.png:	Respiratorios - 60% - Null - Null --- 2024-11-05 11:02:26
+src/img\Cruz Verde\16.png:	Null - NaN - Null - Null --- 2024-11-05 11:02:34
+src/img\Cruz Verde\17.png:	Null - NaN - Null - Null --- 2024-11-05 11:02:42
+src/img\Cruz Verde\18.png:	Aceite de ducha Eucerin - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:02:52
+src/img\Cruz Verde\19.png:	Cuidado de la piel - 20% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:03:00
+src/img\Farmatodo\01.png:	Maquillaje - 25% - 11/10/2024 - 31/10/2024 --- 2024-11-05 11:03:08
+src/img\Farmatodo\02.png:	Cuidado personal - 20% - 25/10/2024 - 07/11/2024 --- 2024-11-05 11:03:17
+src/img\Farmatodo\03.png:	Vitaminas y suplementos dietarios - 20% - 27/10/2024 - 02/11/2024 --- 2024-11-05 11:03:27
+src/img\Farmatodo\04.png:	Cuidado del bebé - 20% - 25/10/2024 - 07/11/2024 --- 2024-11-05 11:03:36
+src/img\Farmatodo\05.png:	Salud - 25% - 25/10/2024 - 07/11/2024 --- 2024-11-05 11:03:44
+src/img\Farmatodo\06.png:	Bebidas y snacks - 20% - 25/10/2024 - 07/11/2024 --- 2024-11-05 11:03:53
+src/img\Farmatodo\07.png:	Vitaminas y suplementos dietarios - 20% - 27/10/2024 - 02/11/2024 --- 2024-11-05 11:04:01
+src/img\Farmatodo\08.png:	Null - NaN - Null - Null --- 2024-11-05 11:04:09
+src/img\Farmatodo\09.png:	Desodorantes de Nivea - 25% - 25/10/2024 - 07/11/2024 --- 2024-11-05 11:04:17
+src/img\Farmatodo\10.png:	Cuidado de la piel - 25% - 25/10/2024 - 31/10/2024 --- 2024-11-05 11:04:27
+src/img\Farmatodo\11.png:	Productos de belleza Clinique - 15% - 01/10/2024 - 30/11/2024 --- 2024-11-05 11:04:35
+src/img\Farmatodo\12.png:	Null - NaN - Null - Null --- 2024-11-05 11:04:43
+src/img\Farmatodo\13.png:	Cuidado dental - 30% - 25/10/2024 - 31/10/2024 --- 2024-11-05 11:04:52
+src/img\Farmatodo\14.png:	Dermocosmética - 25% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:05:00
+src/img\Farmatodo\15.png:	Protector solar Isdin - 25% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:05:08
+src/img\Farmatodo\16.png:	Cremas corporales Nivea - 25% - 25/10/2024 - 07/11/2024 --- 2024-11-05 11:05:18
+src/img\Farmatodo\17.png:	Productos para el cuidado del cabello - 30% - 25/10/2024 - 30/10/2024 --- 2024-11-05 11:05:28
+src/img\Farmatodo\18.png:	Null - NaN - Null - Null --- 2024-11-05 11:05:36
+src/img\Farmatodo\19.png:	Null - NaN - Null - Null --- 2024-11-05 11:05:45
+src/img\Farmatodo\20.png:	Medicamentos para la rinitis alérgica - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:06:00
+src/img\Farmatodo\21.png:	Null - NaN - Null - Null --- 2024-11-05 11:06:08
+src/img\Farmatodo\22.png:	Antialérgicos - 20% - 25/10/2024 - 31/10/2024 --- 2024-11-05 11:06:18
+src/img\Farmatodo\23.png:	Maquillaje Maybelline - 20% - 1/10/2024 - 30/11/2024 --- 2024-11-05 11:06:27
+src/img\Farmatodo\24.png:	Null - NaN - Null - Null --- 2024-11-05 11:06:34
+src/img\Farmatodo\25.png:	Cuidado de la piel - 15% - 01/09/2024 - 31/12/2024 --- 2024-11-05 11:06:43
+src/img\Farmatodo\26.png:	Cuidado de la piel - 15% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:06:52
+src/img\Farmatodo\27.png:	Cuidado de la piel - 30% - 25/10/2024 - 30/10/2024 --- 2024-11-05 11:06:59
+src/img\Farmatodo\28.png:	Productos de cuidado de la piel Avène - 30% - 01/09/2024 - 31/12/2024 --- 2024-11-05 11:07:08
+src/img\Farmatodo\29.png:	Suplementos de belleza - 15% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:07:15
+src/img\Farmatodo\30.png:	Productos Nivea - 20% - 01/09/2024 - 31/12/2024 --- 2024-11-05 11:07:24
+src/img\Farmatodo\31.png:	Maquillaje - 20% - 01/09/2024 - 30/11/2024 --- 2024-11-05 11:07:34
+src/img\Farmatodo\32.png:	Toallitas Húmedas - 20% - 01/09/2024 - 30/11/2024 --- 2024-11-05 11:07:41
+src/img\Farmatodo\33.png:	Alka-Seltzer - 25% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:07:54
+src/img\Farmatodo\34.png:	Mascotas - 20% - 01/10/2024 - 31/12/2024 --- 2024-11-05 11:08:03
+src/img\Farmatodo\35.png:	Null - NaN - Null - Null --- 2024-11-05 11:08:11
+src/img\Farmatodo\36.png:	Null - NaN - Null - Null --- 2024-11-05 11:08:19
+src/img\Farmatodo\37.png:	Null - NaN - Null - Null --- 2024-11-05 11:08:30
+src/img\Farmatodo\38.png:	Null - NaN - Null - Null --- 2024-11-05 11:08:39
+src/img\Farmatodo\39.png:	Null - NaN - Null - Null --- 2024-11-05 11:08:47
+src/img\Farmatodo\40.png:	Null - NaN - Null - Null --- 2024-11-05 11:08:56
+src/img\Farmatodo\41.png:	Null - NaN - Null - Null --- 2024-11-05 11:09:05
+src/img\Farmatodo\42.png:	Null - NaN - Null - Null --- 2024-11-05 11:09:13
+src/img\Farmatodo\43.png:	Null - NaN - Null - Null --- 2024-11-05 11:09:22
+src/img\Farmatodo\44.png:	Null - NaN - Null - Null --- 2024-11-05 11:09:30
+src/img\Farmatodo\45.png:	Null - NaN - Null - Null --- 2024-11-05 11:09:37
+src/img\Farmatodo\46.png:	Null - NaN - Null - Null --- 2024-11-05 11:09:44
+src/img\Farmatodo\47.png:	Null - NaN - Null - Null --- 2024-11-05 11:09:52
+src/img\Farmatodo\48.png:	Null - NaN - Null - Null --- 2024-11-05 11:10:00
+src/img\Farmatodo\49.png:	Suplementos alimenticios - 10% - 01/09/2024 - 30/11/2024 --- 2024-11-05 11:10:08
+src/img\Farmatodo\50.png:	Null - NaN - Null - Null --- 2024-11-05 11:10:14
+src/img\Farmatodo\51.png:	Cepillos dentales - 20% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:10:22
+src/img\Farmatodo\52.png:	Null - NaN - Null - Null --- 2024-11-05 11:10:29
+src/img\Farmatodo\53.png:	Null - NaN - Null - Null --- 2024-11-05 11:10:37
+src/img\LaEconomia\01.png:	Null - NaN - Null - Null --- 2024-11-05 11:10:44
+src/img\LaEconomia\02.png:	Medicamentos y productos de cuidado personal - 25% - 21/10/2024 - 31/10/2024 --- 2024-11-05 11:10:54
+src/img\LaEconomia\03.png:	Null - NaN - Null - Null --- 2024-11-05 11:11:02
+src/img\LaEconomia\04.png:	Enterogermina - 10% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:11:11
+src/img\LaEconomia\05.png:	Floratil - 25% - Null - 31/12/2024 --- 2024-11-05 11:11:19
+src/img\LaEconomia\06.png:	Null - NaN - Null - Null --- 2024-11-05 11:11:26
+src/img\LaEconomia\07.png:	Forz Sport - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:11:36
+src/img\LaEconomia\08.png:	Null - NaN - Null - Null --- 2024-11-05 11:11:43
+src/img\LaEconomia\09.png:	Cuidado de la piel - 40% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:11:53
+src/img\LaRebaja\01.png:	Cuidado personal - 30% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:12:01
+src/img\LaRebaja\02.png:	Productos de cuidado personal y salud - 30% - 26/10/2024 - 31/10/2024 --- 2024-11-05 11:12:09
+src/img\LaRebaja\03.png:	Null - NaN - Null - Null --- 2024-11-05 11:12:18
+src/img\LaRebaja\04.png:	Productos del mes - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:12:25
+src/img\LaRebaja\05.png:	Medicamentos para la rinitis alérgica - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:12:33
+src/img\LaRebaja\06.png:	Cuidado del cabello - 30% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:12:40
+src/img\LaRebaja\07.png:	Cuidado bucal - 20% - 25/10/2024 - 31/10/2024 --- 2024-11-05 11:12:48
+src/img\LaRebaja\08.png:	Desodorantes - 20% - 25/10/2024 - 31/10/2024 --- 2024-11-05 11:12:56
+src/img\LaRebaja\09.png:	Tratamientos capilares - 25% - 05/10/2024 - 31/10/2024 --- 2024-11-05 11:13:03
+src/img\LaRebaja\10.png:	Null - NaN - Null - Null --- 2024-11-05 11:13:11
+src/img\LaRebaja\11.png:	Null - NaN - Null - Null --- 2024-11-05 11:13:19
+src/img\LaRebaja\12.png:	Productos para axilas y pies - 30% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:13:26
+src/img\LaRebaja\13.png:	Null - NaN - Null - Null --- 2024-11-05 11:13:33
+src/img\LaRebaja\14.png:	Celulares, TV y mucho más - 40% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:13:41
+src/img\LaRebaja\15.png:	Null - NaN - Null - Null --- 2024-11-05 11:13:49
+src/img\Locatel\01.png:	Cuidado personal y salud - 40% - 29/10/2024 - 31/10/2024 --- 2024-11-05 11:13:56
+src/img\Locatel\02.png:	Medicamentos genéricos - 50% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:14:05
+src/img\Locatel\03.png:	Cuidado personal - 30% - 16/10/2024 - 31/10/2024 --- 2024-11-05 11:14:12
+src/img\Locatel\04.png:	Null - NaN - Null - Null --- 2024-11-05 11:14:19
+src/img\Locatel\05.png:	Productos de cuidado de la piel Neutrogena - 30% - 17/10/2024 - 27/10/2024 --- 2024-11-05 11:14:27
+src/img\Locatel\06.png:	Gomas de vitaminas - 30% - 28/10/2024 - 04/11/2024 --- 2024-11-05 11:14:34
+src/img\Locatel\07.png:	Redoxon Total - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:14:45
+src/img\Locatel\08.png:	Protector solar facial - 30% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:14:53
+src/img\Locatel\09.png:	Null - NaN - Null - Null --- 2024-11-05 11:15:00
+src/img\Locatel\10.png:	Serum Rellenador L'Oréal Paris Ácido Hialurónico - 30% - 1/10/2024 - 30/10/2024 --- 2024-11-05 11:15:08
+src/img\Locatel\11.png:	Medicamentos para el dolor - 20% - 1/10/2024 - 30/10/2024 --- 2024-11-05 11:15:16
+src/img\Locatel\12.png:	Productos para piel sensible - 25% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:15:24
+src/img\Locatel\13.png:	Productos para el cuidado de bebés y niños - 15% - 16/10/2024 - 31/10/2024 --- 2024-11-05 11:15:33
+src/img\Locatel\14.png:	Null - NaN - Null - Null --- 2024-11-05 11:15:40
+src/img\Locatel\15.png:	Null - NaN - Null - Null --- 2024-11-05 11:15:48
+src/img\Locatel\16.png:	Null - NaN - Null - Null --- 2024-11-05 11:15:55
+src/img\Locatel\17.png:	Null - NaN - Null - Null --- 2024-11-05 11:16:02
+src/img\Locatel\18.png:	Null - NaN - Null - Null --- 2024-11-05 11:16:10
+src/img\Cruz Verde\01.png:	Tratamientos capilares - 25% - 24/10/2024 - 30/10/2024 --- 2024-11-05 11:36:27
+src/img\Cruz Verde\02.png:	Higiene bucal - 40% - 8/10/2024 - 29/10/2024 --- 2024-11-05 11:36:36
+src/img\Cruz Verde\03.png:	Cuidado facial dermo - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:36:44
+src/img\Cruz Verde\04.png:	Medicamentos - 30% - Null - Null --- 2024-11-05 11:36:51
+src/img\Cruz Verde\05.png:	Dermo solares - 25% - 27/10/2024 - 31/10/2024 --- 2024-11-05 11:36:59
+src/img\Cruz Verde\06.png:	Cuidado personal - 30% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:37:07
+src/img\Cruz Verde\07.png:	Dermosolares - 30% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:37:17
+src/img\Cruz Verde\08.png:	Bienestar y nutrición - 25% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:37:25
+src/img\Cruz Verde\09.png:	Productos para mujer y hombre - 30% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:37:34
+src/img\Cruz Verde\10.png:	Cuidado de la piel - 25% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:37:44
+src/img\Cruz Verde\11.png:	Cardiovasculares - 20% - Null - Null --- 2024-11-05 11:37:51
+src/img\Cruz Verde\12.png:	Bebé y maternidad - 25% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:38:01
+src/img\Cruz Verde\13.png:	Suplementos dietarios - 60% - Null - Null --- 2024-11-05 11:38:09
+src/img\Cruz Verde\14.png:	Productos gástricos - 60% - Null - Null --- 2024-11-05 11:38:16
+src/img\Cruz Verde\15.png:	Respiratorios - 60% - Null - Null --- 2024-11-05 11:38:24
+src/img\Cruz Verde\16.png:	Null - NaN - Null - Null --- 2024-11-05 11:38:30
+src/img\Cruz Verde\17.png:	Null - NaN - Null - Null --- 2024-11-05 11:38:38
+src/img\Cruz Verde\18.png:	Aceite de ducha Eucerin - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:38:45
+src/img\Cruz Verde\19.png:	Cuidado de la piel - 20% - 24/10/2024 - 31/10/2024 --- 2024-11-05 11:38:53
+src/img\Farmatodo\01.png:	Maquillaje - 25% - 11/10/2024 - 31/10/2024 --- 2024-11-05 11:39:01
+src/img\Farmatodo\02.png:	Cuidado personal - 20% - 25/10/2024 - 07/11/2024 --- 2024-11-05 11:39:09
+src/img\Farmatodo\03.png:	Vitaminas y suplementos dietarios - 20% - 27/10/2024 - 02/11/2024 --- 2024-11-05 11:39:18
+src/img\Farmatodo\04.png:	Cuidado del bebé - 20% - 25/10/2024 - 7/11/2024 --- 2024-11-05 11:39:26
+src/img\Farmatodo\05.png:	Salud - 25% - 25/10/2024 - 07/11/2024 --- 2024-11-05 11:39:34
+src/img\Farmatodo\06.png:	Bebidas y snacks - 20% - 25/10/2024 - 07/11/2024 --- 2024-11-05 11:39:47
+src/img\Farmatodo\07.png:	Vitaminas y suplementos dietarios - 20% - 27/10/2024 - 02/11/2024 --- 2024-11-05 11:39:56
+src/img\Farmatodo\08.png:	Null - NaN - Null - Null --- 2024-11-05 11:40:03
+src/img\Farmatodo\09.png:	Desodorantes de Nivea - 25% - 25/10/2024 - 7/11/2024 --- 2024-11-05 11:40:11
+src/img\Farmatodo\10.png:	Cuidado para la piel - 25% - 25/10/2024 - 31/10/2024 --- 2024-11-05 11:40:19
+src/img\Farmatodo\11.png:	Productos de belleza Clinique - 15% - 01/10/2024 - 30/11/2024 --- 2024-11-05 11:40:26
+src/img\Farmatodo\12.png:	Null - NaN - Null - Null --- 2024-11-05 11:40:34
+src/img\Farmatodo\13.png:	Cuidado dental - 30% - 25/10/2024 - 31/10/2024 --- 2024-11-05 11:40:41
+src/img\Farmatodo\14.png:	Dermocosmética - 25% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:40:49
+src/img\Farmatodo\15.png:	Protector solar Isdin - 25% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:40:57
+src/img\Farmatodo\16.png:	Cremas corporales Nivea - 25% - 25/10/2024 - 07/11/2024 --- 2024-11-05 11:41:05
+src/img\Farmatodo\17.png:	Productos para el cuidado del cabello - 30% - 25/10/2024 - 30/10/2024 --- 2024-11-05 11:41:13
+src/img\Farmatodo\18.png:	Null - NaN - Null - Null --- 2024-11-05 11:41:21
+src/img\Farmatodo\19.png:	Null - NaN - Null - Null --- 2024-11-05 11:41:28
+src/img\Farmatodo\20.png:	Medicamentos para la rinitis alérgica - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:41:35
+src/img\Farmatodo\21.png:	Null - NaN - Null - Null --- 2024-11-05 11:41:43
+src/img\Farmatodo\22.png:	Antialérgicos - 20% - 25/10/2024 - 31/10/2024 --- 2024-11-05 11:41:50
+src/img\Farmatodo\23.png:	Maquillaje Maybelline - 20% - 1/10/2024 - 30/11/2024 --- 2024-11-05 11:41:57
+src/img\Farmatodo\24.png:	Null - NaN - Null - Null --- 2024-11-05 11:42:05
+src/img\Farmatodo\25.png:	Cuidado de la piel - 15% - 01/09/2024 - 31/12/2024 --- 2024-11-05 11:42:13
+src/img\Farmatodo\26.png:	Cuidado de la piel - 15% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:42:20
+src/img\Farmatodo\27.png:	Cuidado de la piel - 30% - 25/10/2024 - 30/10/2024 --- 2024-11-05 11:42:27
+src/img\Farmatodo\28.png:	Productos de cuidado de la piel Avène - 30% - 1/09/2024 - 31/12/2024 --- 2024-11-05 11:42:34
+src/img\Farmatodo\29.png:	Suplementos de belleza - 15% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:42:43
+src/img\Farmatodo\30.png:	Cuidado personal - 20% - 01/09/2024 - 31/12/2024 --- 2024-11-05 11:42:50
+src/img\Farmatodo\31.png:	Maquillaje Vogue - 20% - 01/09/2024 - 30/11/2024 --- 2024-11-05 11:42:58
+src/img\Farmatodo\32.png:	Toallitas Húmedas - 20% - 01/09/2024 - 30/11/2024 --- 2024-11-05 11:43:05
+src/img\Farmatodo\33.png:	Alka-Seltzer - 25% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:43:12
+src/img\Farmatodo\34.png:	Mascotas - 20% - 01/10/2024 - 31/12/2024 --- 2024-11-05 11:43:21
+src/img\Farmatodo\35.png:	Null - NaN - Null - Null --- 2024-11-05 11:43:31
+src/img\Farmatodo\36.png:	Null - NaN - Null - Null --- 2024-11-05 11:43:40
+src/img\Farmatodo\37.png:	Null - NaN - Null - Null --- 2024-11-05 11:43:48
+src/img\Farmatodo\38.png:	Null - NaN - Null - Null --- 2024-11-05 11:43:57
+src/img\Farmatodo\39.png:	Null - NaN - Null - Null --- 2024-11-05 11:44:05
+src/img\Farmatodo\40.png:	Null - NaN - Null - Null --- 2024-11-05 11:44:13
+src/img\Farmatodo\41.png:	Null - NaN - Null - Null --- 2024-11-05 11:44:20
+src/img\Farmatodo\42.png:	Null - NaN - Null - Null --- 2024-11-05 11:44:27
+src/img\Farmatodo\43.png:	Null - NaN - Null - Null --- 2024-11-05 11:44:35
+src/img\Farmatodo\44.png:	Null - NaN - Null - Null --- 2024-11-05 11:44:42
+src/img\Farmatodo\45.png:	Null - NaN - Null - Null --- 2024-11-05 11:44:50
+src/img\Farmatodo\46.png:	Null - NaN - Null - Null --- 2024-11-05 11:44:58
+src/img\Farmatodo\47.png:	Null - NaN - Null - Null --- 2024-11-05 11:45:07
+src/img\Farmatodo\48.png:	Null - NaN - Null - Null --- 2024-11-05 11:45:14
+src/img\Farmatodo\49.png:	Suplementos alimenticios - 10% - 01/09/2024 - 30/11/2024 --- 2024-11-05 11:45:22
+src/img\Farmatodo\50.png:	Null - NaN - Null - Null --- 2024-11-05 11:45:30
+src/img\Farmatodo\51.png:	Cepillos dentales - 20% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:45:38
+src/img\Farmatodo\52.png:	Null - NaN - Null - Null --- 2024-11-05 11:45:45
+src/img\Farmatodo\53.png:	Null - NaN - Null - Null --- 2024-11-05 11:45:53
+src/img\LaEconomia\01.png:	Null - NaN - Null - Null --- 2024-11-05 11:46:00
+src/img\LaEconomia\02.png:	Medicamentos y productos de cuidado personal - 25% - 21/10/2024 - 31/10/2024 --- 2024-11-05 11:46:08
+src/img\LaEconomia\03.png:	Null - NaN - Null - Null --- 2024-11-05 11:46:16
+src/img\LaEconomia\04.png:	Enterogermina - 10% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:46:24
+src/img\LaEconomia\05.png:	Floratil - 25% - Null - 31/12/2024 --- 2024-11-05 11:46:32
+src/img\LaEconomia\06.png:	Null - NaN - Null - Null --- 2024-11-05 11:46:41
+src/img\LaEconomia\07.png:	Productos deportivos Forz - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:46:49
+src/img\LaEconomia\08.png:	Null - NaN - Null - Null --- 2024-11-05 11:46:58
+src/img\LaEconomia\09.png:	Productos para el cuidado de la piel - 40% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:47:07
+src/img\LaRebaja\01.png:	Cuidado personal - 30% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:47:15
+src/img\LaRebaja\02.png:	Productos de cuidado personal y salud - 30% - 26/10/2024 - 31/10/2024 --- 2024-11-05 11:47:23
+src/img\LaRebaja\03.png:	Null - NaN - Null - Null --- 2024-11-05 11:47:33
+src/img\LaRebaja\04.png:	Productos del mes - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:47:42
+src/img\LaRebaja\05.png:	Medicamentos para la rinitis alérgica - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:47:54
+src/img\LaRebaja\06.png:	Cuidado del cabello - 30% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:48:03
+src/img\LaRebaja\07.png:	Cuidado bucal - 20% - 25/10/2024 - 31/10/2024 --- 2024-11-05 11:48:10
+src/img\LaRebaja\08.png:	Desodorantes - 20% - 25/10/2024 - 31/10/2024 --- 2024-11-05 11:48:18
+src/img\LaRebaja\09.png:	Tratamientos capilares - 25% - 05/10/2024 - 31/10/2024 --- 2024-11-05 11:48:26
+src/img\LaRebaja\10.png:	Null - NaN - Null - Null --- 2024-11-05 11:48:34
+src/img\LaRebaja\11.png:	Null - NaN - Null - Null --- 2024-11-05 11:48:41
+src/img\LaRebaja\12.png:	Productos para axilas y pies - 30% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:48:48
+src/img\LaRebaja\13.png:	Null - NaN - Null - Null --- 2024-11-05 11:48:56
+src/img\LaRebaja\14.png:	Celulares, TV y mucho más - 40% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:49:06
+src/img\LaRebaja\15.png:	Null - NaN - Null - Null --- 2024-11-05 11:49:14
+src/img\Locatel\01.png:	Cuidado personal y salud - 40% - 29/10/2024 - 31/10/2024 --- 2024-11-05 11:49:24
+src/img\Locatel\02.png:	Medicamentos genéricos - 50% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:49:32
+src/img\Locatel\03.png:	Cuidado personal - 30% - 16/10/2024 - 31/10/2024 --- 2024-11-05 11:49:39
+src/img\Locatel\04.png:	Null - NaN - Null - Null --- 2024-11-05 11:49:47
+src/img\Locatel\05.png:	Productos de cuidado de la piel Neutrogena - 30% - 17/10/2024 - 27/10/2024 --- 2024-11-05 11:49:54
+src/img\Locatel\06.png:	Gomitas de vitaminas - 30% - 28/10/2024 - 04/11/2024 --- 2024-11-05 11:50:02
+src/img\Locatel\07.png:	Redoxon Total - 20% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:50:11
+src/img\Locatel\08.png:	Protector solar facial - 30% - 1/10/2024 - 31/10/2024 --- 2024-11-05 11:50:18
+src/img\Locatel\09.png:	Null - NaN - Null - Null --- 2024-11-05 11:50:26
+src/img\Locatel\10.png:	Serum Rellenador L'Oréal Paris - 30% - 1/10/2024 - 30/10/2024 --- 2024-11-05 11:50:34
+src/img\Locatel\11.png:	Medicamentos para el dolor - 20% - 1/10/2024 - 30/10/2024 --- 2024-11-05 11:50:41
+src/img\Locatel\12.png:	Productos para piel sensible - 25% - 01/10/2024 - 31/10/2024 --- 2024-11-05 11:50:48
+src/img\Locatel\13.png:	Productos para el cuidado de bebés y niños - 15% - 16/10/2024 - 31/10/2024 --- 2024-11-05 11:50:55
+src/img\Locatel\14.png:	Null - NaN - Null - Null --- 2024-11-05 11:51:03
+src/img\Locatel\15.png:	Null - NaN - Null - Null --- 2024-11-05 11:51:10
+src/img\Locatel\16.png:	Null - NaN - Null - Null --- 2024-11-05 11:51:18
+src/img\Locatel\17.png:	Null - NaN - Null - Null --- 2024-11-05 11:51:25
+src/img\Locatel\18.png:	Null - NaN - Null - Null --- 2024-11-05 11:51:32
